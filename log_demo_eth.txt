@@ -1,0 +1,1278 @@
+[2026-06-23 12:37:14] -- Revisando mercado --
+[2026-06-23 12:37:14] Precio: 1652.28 | RSI: 33.08 | BB inf: 1651.83 | BB sup: 1661.02
+[2026-06-23 12:37:14] Balance: $10,208.99 | Equity: $10,208.99 | Posiciones abiertas: 0/2
+[2026-06-23 12:37:14] Senal: HOLD — esperando
+[2026-06-23 12:37:14] Proxima revision en 5 minutos
+
+[2026-06-23 12:42:14] -- Revisando mercado --
+[2026-06-23 12:42:14] Precio: 1650.80 | RSI: 28.80 | BB inf: 1650.80 | BB sup: 1661.46
+[2026-06-23 12:42:14] Balance: $10,208.99 | Equity: $10,208.94 | Posiciones abiertas: 0/2
+[2026-06-23 12:42:14] Senal detectada: BUY — abriendo posicion 1
+[2026-06-23 12:42:14] Posicion abierta | BUY | Precio: 1650.80 | SL: 1620.8 | TP: 1740.8 | Modo: 1
+[2026-06-23 12:42:14] Proxima revision en 5 minutos
+
+[2026-06-23 12:47:14] -- Revisando mercado --
+[2026-06-23 12:47:14] Precio: 1648.30 | RSI: 23.33 | BB inf: 1648.86 | BB sup: 1662.41
+[2026-06-23 12:47:14] Balance: $10,208.99 | Equity: $10,208.84 | Posiciones abiertas: 1/2
+[2026-06-23 12:47:14]   Pos 38665936 | BUY | P&L: $-0.06
+[2026-06-23 12:47:14]   P&L total flotante: $-0.06
+[2026-06-23 12:47:14] Senal BUY pero pos1 aun no alcanza ganancia minima ($-0.06 / $0.5) — esperando
+[2026-06-23 12:47:14] Proxima revision en 5 minutos
+
+[2026-06-23 12:52:14] -- Revisando mercado --
+[2026-06-23 12:52:14] Precio: 1651.48 | RSI: 39.90 | BB inf: 1648.88 | BB sup: 1662.15
+[2026-06-23 12:52:14] Balance: $10,208.99 | Equity: $10,208.97 | Posiciones abiertas: 1/2
+[2026-06-23 12:52:14]   Pos 38665936 | BUY | P&L: $-0.03
+[2026-06-23 12:52:14]   P&L total flotante: $-0.03
+[2026-06-23 12:52:14] Manteniendo posicion 1 (BUY)
+[2026-06-23 12:52:14] Proxima revision en 5 minutos
+
+[2026-06-23 12:57:14] -- Revisando mercado --
+[2026-06-23 12:57:14] Precio: 1654.30 | RSI: 50.94 | BB inf: 1649.17 | BB sup: 1661.83
+[2026-06-23 12:57:14] Balance: $10,208.99 | Equity: $10,209.05 | Posiciones abiertas: 1/2
+[2026-06-23 12:57:14]   Pos 38665936 | BUY | P&L: $0.00
+[2026-06-23 12:57:15]   P&L total flotante: $0.00
+[2026-06-23 12:57:15] Manteniendo posicion 1 (BUY)
+[2026-06-23 12:57:15] Proxima revision en 5 minutos
+
+[2026-06-23 13:02:15] -- Revisando mercado --
+[2026-06-23 13:02:15] Precio: 1655.03 | RSI: 53.77 | BB inf: 1649.13 | BB sup: 1661.32
+[2026-06-23 13:02:15] Balance: $10,208.99 | Equity: $10,209.23 | Posiciones abiertas: 1/2
+[2026-06-23 13:02:15]   Pos 38665936 | BUY | P&L: $0.01
+[2026-06-23 13:02:15]   P&L total flotante: $0.01
+[2026-06-23 13:02:15] Manteniendo posicion 1 (BUY)
+[2026-06-23 13:02:15] Proxima revision en 5 minutos
+
+[2026-06-23 13:07:15] -- Revisando mercado --
+[2026-06-23 13:07:15] Precio: 1657.38 | RSI: 60.24 | BB inf: 1649.42 | BB sup: 1660.94
+[2026-06-23 13:07:15] Balance: $10,208.99 | Equity: $10,209.40 | Posiciones abiertas: 1/2
+[2026-06-23 13:07:15]   Pos 38665936 | BUY | P&L: $0.03
+[2026-06-23 13:07:15]   P&L total flotante: $0.03
+[2026-06-23 13:07:15] Manteniendo posicion 1 (BUY)
+[2026-06-23 13:07:15] Proxima revision en 5 minutos
+
+[2026-06-23 13:12:15] -- Revisando mercado --
+[2026-06-23 13:12:15] Precio: 1657.98 | RSI: 62.01 | BB inf: 1649.56 | BB sup: 1660.65
+[2026-06-23 13:12:15] Balance: $10,208.99 | Equity: $10,209.48 | Posiciones abiertas: 1/2
+[2026-06-23 13:12:15]   Pos 38665936 | BUY | P&L: $0.04
+[2026-06-23 13:12:15]   P&L total flotante: $0.04
+[2026-06-23 13:12:15] Manteniendo posicion 1 (BUY)
+[2026-06-23 13:12:15] Proxima revision en 5 minutos
+
+[2026-06-23 13:17:15] -- Revisando mercado --
+[2026-06-23 13:17:15] Precio: 1656.75 | RSI: 56.51 | BB inf: 1649.86 | BB sup: 1659.99
+[2026-06-23 13:17:15] Balance: $10,208.99 | Equity: $10,209.39 | Posiciones abiertas: 1/2
+[2026-06-23 13:17:15]   Pos 38665936 | BUY | P&L: $0.03
+[2026-06-23 13:17:15]   P&L total flotante: $0.03
+[2026-06-23 13:17:15] Manteniendo posicion 1 (BUY)
+[2026-06-23 13:17:15] Proxima revision en 5 minutos
+
+[2026-06-23 13:22:15] -- Revisando mercado --
+[2026-06-23 13:22:15] Precio: 1655.43 | RSI: 50.76 | BB inf: 1649.90 | BB sup: 1659.65
+[2026-06-23 13:22:15] Balance: $10,208.99 | Equity: $10,209.36 | Posiciones abiertas: 1/2
+[2026-06-23 13:22:15]   Pos 38665936 | BUY | P&L: $0.02
+[2026-06-23 13:22:15]   P&L total flotante: $0.02
+[2026-06-23 13:22:15] Manteniendo posicion 1 (BUY)
+[2026-06-23 13:22:15] Proxima revision en 5 minutos
+
+[2026-06-23 13:27:15] -- Revisando mercado --
+[2026-06-23 13:27:15] Precio: 1657.43 | RSI: 59.00 | BB inf: 1649.87 | BB sup: 1659.81
+[2026-06-23 13:27:15] Balance: $10,208.99 | Equity: $10,209.44 | Posiciones abiertas: 1/2
+[2026-06-23 13:27:15]   Pos 38665936 | BUY | P&L: $0.04
+[2026-06-23 13:27:15]   P&L total flotante: $0.04
+[2026-06-23 13:27:15] Manteniendo posicion 1 (BUY)
+[2026-06-23 13:27:15] Proxima revision en 5 minutos
+
+[2026-06-23 13:32:15] -- Revisando mercado --
+[2026-06-23 13:32:15] Precio: 1659.05 | RSI: 62.41 | BB inf: 1649.68 | BB sup: 1660.79
+[2026-06-23 13:32:15] Balance: $10,208.99 | Equity: $10,209.40 | Posiciones abiertas: 1/2
+[2026-06-23 13:32:15]   Pos 38665936 | BUY | P&L: $0.05
+[2026-06-23 13:32:15]   P&L total flotante: $0.05
+[2026-06-23 13:32:15] Manteniendo posicion 1 (BUY)
+[2026-06-23 13:32:15] Proxima revision en 5 minutos
+
+[2026-06-23 13:37:15] -- Revisando mercado --
+[2026-06-23 13:37:15] Precio: 1658.48 | RSI: 59.35 | BB inf: 1649.68 | BB sup: 1661.14
+[2026-06-23 13:37:15] Balance: $10,208.99 | Equity: $10,209.40 | Posiciones abiertas: 1/2
+[2026-06-23 13:37:15]   Pos 38665936 | BUY | P&L: $0.05
+[2026-06-23 13:37:15]   P&L total flotante: $0.05
+[2026-06-23 13:37:15] Manteniendo posicion 1 (BUY)
+[2026-06-23 13:37:15] Proxima revision en 5 minutos
+
+[2026-06-23 13:42:15] -- Revisando mercado --
+[2026-06-23 13:42:15] Precio: 1656.58 | RSI: 50.30 | BB inf: 1649.72 | BB sup: 1661.01
+[2026-06-23 13:42:15] Balance: $10,208.99 | Equity: $10,209.35 | Posiciones abiertas: 1/2
+[2026-06-23 13:42:15]   Pos 38665936 | BUY | P&L: $0.03
+[2026-06-23 13:42:15]   P&L total flotante: $0.03
+[2026-06-23 13:42:15] Manteniendo posicion 1 (BUY)
+[2026-06-23 13:42:15] Proxima revision en 5 minutos
+
+[2026-06-23 13:47:15] -- Revisando mercado --
+[2026-06-23 13:47:15] Precio: 1655.53 | RSI: 45.87 | BB inf: 1649.75 | BB sup: 1660.99
+[2026-06-23 13:47:15] Balance: $10,208.99 | Equity: $10,209.36 | Posiciones abiertas: 1/2
+[2026-06-23 13:47:15]   Pos 38665936 | BUY | P&L: $0.02
+[2026-06-23 13:47:15]   P&L total flotante: $0.02
+[2026-06-23 13:47:15] Manteniendo posicion 1 (BUY)
+[2026-06-23 13:47:15] Proxima revision en 5 minutos
+
+[2026-06-23 13:52:15] -- Revisando mercado --
+[2026-06-23 13:52:15] Precio: 1657.55 | RSI: 55.01 | BB inf: 1649.78 | BB sup: 1661.23
+[2026-06-23 13:52:15] Balance: $10,208.99 | Equity: $10,209.29 | Posiciones abiertas: 1/2
+[2026-06-23 13:52:15]   Pos 38665936 | BUY | P&L: $0.04
+[2026-06-23 13:52:15]   P&L total flotante: $0.04
+[2026-06-23 13:52:15] Manteniendo posicion 1 (BUY)
+[2026-06-23 13:52:15] Proxima revision en 5 minutos
+
+[2026-06-23 13:57:15] -- Revisando mercado --
+[2026-06-23 13:57:15] Precio: 1660.43 | RSI: 62.30 | BB inf: 1649.35 | BB sup: 1662.53
+[2026-06-23 13:57:15] Balance: $10,208.99 | Equity: $10,209.42 | Posiciones abiertas: 1/2
+[2026-06-23 13:57:15]   Pos 38665936 | BUY | P&L: $0.07
+[2026-06-23 13:57:15]   P&L total flotante: $0.07
+[2026-06-23 13:57:15] Manteniendo posicion 1 (BUY)
+[2026-06-23 13:57:15] Proxima revision en 5 minutos
+
+[2026-06-23 14:02:15] -- Revisando mercado --
+[2026-06-23 14:02:15] Precio: 1662.05 | RSI: 67.25 | BB inf: 1649.06 | BB sup: 1663.35
+[2026-06-23 14:02:15] Balance: $10,208.99 | Equity: $10,208.44 | Posiciones abiertas: 1/2
+[2026-06-23 14:02:15]   Pos 38665936 | BUY | P&L: $0.08
+[2026-06-23 14:02:15]   P&L total flotante: $0.08
+[2026-06-23 14:02:15] Manteniendo posicion 1 (BUY)
+[2026-06-23 14:02:15] Proxima revision en 5 minutos
+
+[2026-06-23 14:07:15] -- Revisando mercado --
+[2026-06-23 14:07:15] Precio: 1664.60 | RSI: 73.40 | BB inf: 1648.63 | BB sup: 1664.66
+[2026-06-23 14:07:15] Balance: $10,208.99 | Equity: $10,210.03 | Posiciones abiertas: 1/2
+[2026-06-23 14:07:15]   Pos 38665936 | BUY | P&L: $0.11
+[2026-06-23 14:07:15]   P&L total flotante: $0.11
+[2026-06-23 14:07:15] Manteniendo posicion 1 (BUY)
+[2026-06-23 14:07:15] Proxima revision en 5 minutos
+
+[2026-06-23 14:12:15] -- Revisando mercado --
+[2026-06-23 14:12:15] Precio: 1663.90 | RSI: 69.58 | BB inf: 1648.81 | BB sup: 1665.59
+[2026-06-23 14:12:15] Balance: $10,208.99 | Equity: $10,209.95 | Posiciones abiertas: 1/2
+[2026-06-23 14:12:15]   Pos 38665936 | BUY | P&L: $0.10
+[2026-06-23 14:12:15]   P&L total flotante: $0.10
+[2026-06-23 14:12:15] Manteniendo posicion 1 (BUY)
+[2026-06-23 14:12:15] Proxima revision en 5 minutos
+
+[2026-06-23 14:17:15] -- Revisando mercado --
+[2026-06-23 14:17:15] Precio: 1661.18 | RSI: 56.61 | BB inf: 1649.67 | BB sup: 1665.49
+[2026-06-23 14:17:15] Balance: $10,208.99 | Equity: $10,206.73 | Posiciones abiertas: 1/2
+[2026-06-23 14:17:15]   Pos 38665936 | BUY | P&L: $0.07
+[2026-06-23 14:17:15]   P&L total flotante: $0.07
+[2026-06-23 14:17:15] Manteniendo posicion 1 (BUY)
+[2026-06-23 14:17:15] Proxima revision en 5 minutos
+
+[2026-06-23 14:22:15] -- Revisando mercado --
+[2026-06-23 14:22:15] Precio: 1661.63 | RSI: 57.68 | BB inf: 1651.26 | BB sup: 1665.33
+[2026-06-23 14:22:15] Balance: $10,208.99 | Equity: $10,206.98 | Posiciones abiertas: 1/2
+[2026-06-23 14:22:15]   Pos 38665936 | BUY | P&L: $0.08
+[2026-06-23 14:22:15]   P&L total flotante: $0.08
+[2026-06-23 14:22:15] Manteniendo posicion 1 (BUY)
+[2026-06-23 14:22:15] Proxima revision en 5 minutos
+
+[2026-06-23 14:27:15] -- Revisando mercado --
+[2026-06-23 14:27:15] Precio: 1660.38 | RSI: 51.60 | BB inf: 1652.80 | BB sup: 1664.75
+[2026-06-23 14:27:15] Balance: $10,208.99 | Equity: $10,207.83 | Posiciones abiertas: 1/2
+[2026-06-23 14:27:15]   Pos 38665936 | BUY | P&L: $0.06
+[2026-06-23 14:27:15]   P&L total flotante: $0.06
+[2026-06-23 14:27:15] Manteniendo posicion 1 (BUY)
+[2026-06-23 14:27:15] Proxima revision en 5 minutos
+
+[2026-06-23 14:32:15] -- Revisando mercado --
+[2026-06-23 14:32:15] Precio: 1661.23 | RSI: 54.62 | BB inf: 1653.36 | BB sup: 1665.02
+[2026-06-23 14:32:15] Balance: $10,208.99 | Equity: $10,208.09 | Posiciones abiertas: 1/2
+[2026-06-23 14:32:15]   Pos 38665936 | BUY | P&L: $0.07
+[2026-06-23 14:32:15]   P&L total flotante: $0.07
+[2026-06-23 14:32:15] Manteniendo posicion 1 (BUY)
+[2026-06-23 14:32:15] Proxima revision en 5 minutos
+
+[2026-06-23 14:37:15] -- Revisando mercado --
+[2026-06-23 14:37:15] Precio: 1660.33 | RSI: 50.02 | BB inf: 1654.42 | BB sup: 1664.61
+[2026-06-23 14:37:15] Balance: $10,208.99 | Equity: $10,208.64 | Posiciones abiertas: 1/2
+[2026-06-23 14:37:15]   Pos 38665936 | BUY | P&L: $0.06
+[2026-06-23 14:37:15]   P&L total flotante: $0.06
+[2026-06-23 14:37:15] Manteniendo posicion 1 (BUY)
+[2026-06-23 14:37:15] Proxima revision en 5 minutos
+
+[2026-06-23 14:42:15] -- Revisando mercado --
+[2026-06-23 14:42:15] Precio: 1661.33 | RSI: 54.79 | BB inf: 1654.66 | BB sup: 1664.88
+[2026-06-23 14:42:15] Balance: $10,208.99 | Equity: $10,207.51 | Posiciones abiertas: 1/2
+[2026-06-23 14:42:15]   Pos 38665936 | BUY | P&L: $0.07
+[2026-06-23 14:42:15]   P&L total flotante: $0.07
+[2026-06-23 14:42:15] Manteniendo posicion 1 (BUY)
+[2026-06-23 14:42:15] Proxima revision en 5 minutos
+
+[2026-06-23 14:47:15] -- Revisando mercado --
+[2026-06-23 14:47:15] Precio: 1660.58 | RSI: 50.27 | BB inf: 1654.92 | BB sup: 1664.88
+[2026-06-23 14:47:15] Balance: $10,208.99 | Equity: $10,209.25 | Posiciones abiertas: 1/2
+[2026-06-23 14:47:15]   Pos 38665936 | BUY | P&L: $0.07
+[2026-06-23 14:47:15]   P&L total flotante: $0.07
+[2026-06-23 14:47:15] Manteniendo posicion 1 (BUY)
+[2026-06-23 14:47:15] Proxima revision en 5 minutos
+
+[2026-06-23 14:52:15] -- Revisando mercado --
+[2026-06-23 14:52:15] Precio: 1660.38 | RSI: 49.27 | BB inf: 1655.16 | BB sup: 1664.89
+[2026-06-23 14:52:15] Balance: $10,208.99 | Equity: $10,209.15 | Posiciones abiertas: 1/2
+[2026-06-23 14:52:15]   Pos 38665936 | BUY | P&L: $0.07
+[2026-06-23 14:52:15]   P&L total flotante: $0.07
+[2026-06-23 14:52:15] Manteniendo posicion 1 (BUY)
+[2026-06-23 14:52:15] Proxima revision en 5 minutos
+
+[2026-06-23 14:57:15] -- Revisando mercado --
+[2026-06-23 14:57:15] Precio: 1661.38 | RSI: 55.89 | BB inf: 1655.85 | BB sup: 1664.74
+[2026-06-23 14:57:15] Balance: $10,208.99 | Equity: $10,207.78 | Posiciones abiertas: 1/2
+[2026-06-23 14:57:15]   Pos 38665936 | BUY | P&L: $0.08
+[2026-06-23 14:57:15]   P&L total flotante: $0.08
+[2026-06-23 14:57:15] Manteniendo posicion 1 (BUY)
+[2026-06-23 14:57:15] Proxima revision en 5 minutos
+
+[2026-06-23 15:02:15] -- Revisando mercado --
+[2026-06-23 15:02:15] Precio: 1661.64 | RSI: 57.18 | BB inf: 1656.57 | BB sup: 1664.61
+[2026-06-23 15:02:15] Balance: $10,208.99 | Equity: $10,207.72 | Posiciones abiertas: 1/2
+[2026-06-23 15:02:15]   Pos 38665936 | BUY | P&L: $0.08
+[2026-06-23 15:02:15]   P&L total flotante: $0.08
+[2026-06-23 15:02:15] Manteniendo posicion 1 (BUY)
+[2026-06-23 15:02:15] Proxima revision en 5 minutos
+
+[2026-06-23 15:07:15] -- Revisando mercado --
+[2026-06-23 15:07:15] Precio: 1664.10 | RSI: 68.51 | BB inf: 1656.46 | BB sup: 1665.37
+[2026-06-23 15:07:15] Balance: $10,209.50 | Equity: $10,207.83 | Posiciones abiertas: 1/2
+[2026-06-23 15:07:15]   Pos 38665936 | BUY | P&L: $0.10
+[2026-06-23 15:07:15]   P&L total flotante: $0.10
+[2026-06-23 15:07:15] Manteniendo posicion 1 (BUY)
+[2026-06-23 15:07:15] Proxima revision en 5 minutos
+
+[2026-06-23 15:12:15] -- Revisando mercado --
+[2026-06-23 15:12:15] Precio: 1663.28 | RSI: 63.66 | BB inf: 1656.70 | BB sup: 1665.47
+[2026-06-23 15:12:15] Balance: $10,209.50 | Equity: $10,207.74 | Posiciones abiertas: 1/2
+[2026-06-23 15:12:15]   Pos 38665936 | BUY | P&L: $0.09
+[2026-06-23 15:12:15]   P&L total flotante: $0.09
+[2026-06-23 15:12:15] Manteniendo posicion 1 (BUY)
+[2026-06-23 15:12:15] Proxima revision en 5 minutos
+
+[2026-06-23 15:42:15] ==================================================
+[2026-06-23 15:42:15]    BOT DEMO - ETH/USD OANDA
+[2026-06-23 15:42:15]    Par      : ETHUSD
+[2026-06-23 15:42:15]    Lote     : 0.01
+[2026-06-23 15:42:15]    SL / TP  : $30 / $90
+[2026-06-23 15:42:15]    Max pos  : 2
+[2026-06-23 15:42:15]    Balance  : $10,209.50
+[2026-06-23 15:42:15]    Servidor : OANDA_Global-Demo-1
+[2026-06-23 15:42:15]    Estrategia: BB(20,2) + RSI(14)
+[2026-06-23 15:42:15] ==================================================
+[2026-06-23 15:42:15] -- Revisando mercado --
+[2026-06-23 15:42:15] Precio: 1664.23 | RSI: 62.67 | BB inf: 1659.51 | BB sup: 1665.72
+[2026-06-23 15:42:15] Balance: $10,209.50 | Equity: $10,207.75 | Posiciones abiertas: 1/2
+[2026-06-23 15:42:15]   Pos 38665936 | BUY | P&L: $0.10
+[2026-06-23 15:42:15]   P&L total flotante: $0.10
+[2026-06-23 15:42:15] Manteniendo posicion 1 (BUY)
+[2026-06-23 15:42:15] Proxima revision en 5 minutos
+
+[2026-06-23 16:08:42] -- Revisando mercado --
+[2026-06-23 16:08:42] Precio: 1668.93 | RSI: 82.50 | BB inf: 1659.07 | BB sup: 1667.95
+[2026-06-23 16:08:42] Balance: $10,209.50 | Equity: $10,210.13 | Posiciones abiertas: 1/2
+[2026-06-23 16:08:42]   Pos 38665936 | BUY | P&L: $0.15
+[2026-06-23 16:08:42]   P&L total flotante: $0.15
+[2026-06-23 16:08:42] Senal contraria — cerrando pos1 y abriendo SELL
+[2026-06-23 16:08:42] Posicion cerrada | Ticket: 38665936 | Motivo: senal contraria | P&L: $0.15
+[2026-06-23 16:08:44] Posicion abierta | SELL | Precio: 1668.93 | SL: 1698.93 | TP: 1578.93 | Modo: 1
+[2026-06-23 16:08:44] Proxima revision en 5 minutos
+
+[2026-06-23 16:13:44] -- Revisando mercado --
+[2026-06-23 16:13:44] Precio: 1669.40 | RSI: 83.63 | BB inf: 1658.96 | BB sup: 1668.94
+[2026-06-23 16:13:44] Balance: $10,209.64 | Equity: $10,211.29 | Posiciones abiertas: 1/2
+[2026-06-23 16:13:44]   Pos 38670744 | SELL | P&L: $-0.03
+[2026-06-23 16:13:44]   P&L total flotante: $-0.03
+[2026-06-23 16:13:44] Senal SELL pero pos1 aun no alcanza ganancia minima ($-0.03 / $0.5) — esperando
+[2026-06-23 16:13:44] Proxima revision en 5 minutos
+
+[2026-06-23 16:18:44] -- Revisando mercado --
+[2026-06-23 16:18:44] Precio: 1670.55 | RSI: 86.22 | BB inf: 1658.74 | BB sup: 1670.10
+[2026-06-23 16:18:44] Balance: $10,209.64 | Equity: $10,211.33 | Posiciones abiertas: 1/2
+[2026-06-23 16:18:44]   Pos 38670744 | SELL | P&L: $-0.05
+[2026-06-23 16:18:44]   P&L total flotante: $-0.05
+[2026-06-23 16:18:44] Senal SELL pero pos1 aun no alcanza ganancia minima ($-0.05 / $0.5) — esperando
+[2026-06-23 16:18:44] Proxima revision en 5 minutos
+
+[2026-06-23 16:23:44] -- Revisando mercado --
+[2026-06-23 16:23:44] Precio: 1662.93 | RSI: 37.90 | BB inf: 1659.35 | BB sup: 1669.47
+[2026-06-23 16:23:44] Balance: $10,209.64 | Equity: $10,204.07 | Posiciones abiertas: 1/2
+[2026-06-23 16:23:44]   Pos 38670744 | SELL | P&L: $0.03
+[2026-06-23 16:23:44]   P&L total flotante: $0.03
+[2026-06-23 16:23:44] Manteniendo posicion 1 (SELL)
+[2026-06-23 16:23:44] Proxima revision en 5 minutos
+
+[2026-06-23 16:28:44] -- Revisando mercado --
+[2026-06-23 16:28:44] Precio: 1663.15 | RSI: 38.89 | BB inf: 1659.86 | BB sup: 1669.26
+[2026-06-23 16:28:44] Balance: $10,209.64 | Equity: $10,207.41 | Posiciones abiertas: 1/2
+[2026-06-23 16:28:44]   Pos 38670744 | SELL | P&L: $0.03
+[2026-06-23 16:28:44]   P&L total flotante: $0.03
+[2026-06-23 16:28:44] Manteniendo posicion 1 (SELL)
+[2026-06-23 16:28:44] Proxima revision en 5 minutos
+
+[2026-06-23 16:33:44] -- Revisando mercado --
+[2026-06-23 16:33:44] Precio: 1664.05 | RSI: 44.30 | BB inf: 1660.56 | BB sup: 1668.98
+[2026-06-23 16:33:44] Balance: $10,209.64 | Equity: $10,202.05 | Posiciones abiertas: 1/2
+[2026-06-23 16:33:44]   Pos 38670744 | SELL | P&L: $0.02
+[2026-06-23 16:33:44]   P&L total flotante: $0.02
+[2026-06-23 16:33:44] Manteniendo posicion 1 (SELL)
+[2026-06-23 16:33:44] Proxima revision en 5 minutos
+
+[2026-06-23 16:38:44] -- Revisando mercado --
+[2026-06-23 16:38:44] Precio: 1662.03 | RSI: 34.83 | BB inf: 1660.46 | BB sup: 1668.98
+[2026-06-23 16:38:44] Balance: $10,209.64 | Equity: $10,198.78 | Posiciones abiertas: 1/2
+[2026-06-23 16:38:44]   Pos 38670744 | SELL | P&L: $0.04
+[2026-06-23 16:38:44]   P&L total flotante: $0.04
+[2026-06-23 16:38:44] Manteniendo posicion 1 (SELL)
+[2026-06-23 16:38:44] Proxima revision en 5 minutos
+
+[2026-06-23 16:43:44] -- Revisando mercado --
+[2026-06-23 16:43:44] Precio: 1662.33 | RSI: 35.86 | BB inf: 1660.38 | BB sup: 1668.98
+[2026-06-23 16:43:44] Balance: $10,209.64 | Equity: $10,200.49 | Posiciones abiertas: 1/2
+[2026-06-23 16:43:44]   Pos 38670744 | SELL | P&L: $0.04
+[2026-06-23 16:43:44]   P&L total flotante: $0.04
+[2026-06-23 16:43:44] Manteniendo posicion 1 (SELL)
+[2026-06-23 16:43:44] Proxima revision en 5 minutos
+
+[2026-06-23 16:48:44] -- Revisando mercado --
+[2026-06-23 16:48:44] Precio: 1662.35 | RSI: 38.71 | BB inf: 1660.13 | BB sup: 1669.07
+[2026-06-23 16:48:44] Balance: $10,209.64 | Equity: $10,203.93 | Posiciones abiertas: 1/2
+[2026-06-23 16:48:44]   Pos 38670744 | SELL | P&L: $0.04
+[2026-06-23 16:48:44]   P&L total flotante: $0.04
+[2026-06-23 16:48:44] Manteniendo posicion 1 (SELL)
+[2026-06-23 16:48:44] Proxima revision en 5 minutos
+
+[2026-06-23 16:53:44] -- Revisando mercado --
+[2026-06-23 16:53:44] Precio: 1662.18 | RSI: 37.50 | BB inf: 1659.96 | BB sup: 1669.12
+[2026-06-23 16:53:44] Balance: $10,209.64 | Equity: $10,203.83 | Posiciones abiertas: 1/2
+[2026-06-23 16:53:44]   Pos 38670744 | SELL | P&L: $0.04
+[2026-06-23 16:53:44]   P&L total flotante: $0.04
+[2026-06-23 16:53:44] Manteniendo posicion 1 (SELL)
+[2026-06-23 16:53:44] Proxima revision en 5 minutos
+
+[2026-06-23 16:58:44] -- Revisando mercado --
+[2026-06-23 16:58:44] Precio: 1662.43 | RSI: 41.79 | BB inf: 1659.85 | BB sup: 1669.16
+[2026-06-23 16:58:44] Balance: $10,209.64 | Equity: $10,203.12 | Posiciones abiertas: 1/2
+[2026-06-23 16:58:44]   Pos 38670744 | SELL | P&L: $0.03
+[2026-06-23 16:58:44]   P&L total flotante: $0.03
+[2026-06-23 16:58:44] Manteniendo posicion 1 (SELL)
+[2026-06-23 16:58:44] Proxima revision en 5 minutos
+
+[2026-06-23 17:03:44] -- Revisando mercado --
+[2026-06-23 17:03:44] Precio: 1661.78 | RSI: 38.13 | BB inf: 1659.60 | BB sup: 1669.20
+[2026-06-23 17:03:44] Balance: $10,209.64 | Equity: $10,199.11 | Posiciones abiertas: 1/2
+[2026-06-23 17:03:44]   Pos 38670744 | SELL | P&L: $0.04
+[2026-06-23 17:03:44]   P&L total flotante: $0.04
+[2026-06-23 17:03:44] Manteniendo posicion 1 (SELL)
+[2026-06-23 17:03:44] Proxima revision en 5 minutos
+
+[2026-06-23 17:08:44] -- Revisando mercado --
+[2026-06-23 17:08:44] Precio: 1659.23 | RSI: 27.30 | BB inf: 1658.64 | BB sup: 1669.51
+[2026-06-23 17:08:44] Balance: $10,193.83 | Equity: $10,194.92 | Posiciones abiertas: 1/2
+[2026-06-23 17:08:44]   Pos 38670744 | SELL | P&L: $0.07
+[2026-06-23 17:08:44]   P&L total flotante: $0.07
+[2026-06-23 17:08:44] Manteniendo posicion 1 (SELL)
+[2026-06-23 17:08:44] Proxima revision en 5 minutos
+
+[2026-06-23 17:13:44] -- Revisando mercado --
+[2026-06-23 17:13:44] Precio: 1660.43 | RSI: 36.15 | BB inf: 1658.28 | BB sup: 1669.49
+[2026-06-23 17:13:44] Balance: $10,193.83 | Equity: $10,197.71 | Posiciones abiertas: 1/2
+[2026-06-23 17:13:44]   Pos 38670744 | SELL | P&L: $0.06
+[2026-06-23 17:13:44]   P&L total flotante: $0.06
+[2026-06-23 17:13:44] Manteniendo posicion 1 (SELL)
+[2026-06-23 17:13:44] Proxima revision en 5 minutos
+
+[2026-06-23 17:18:44] -- Revisando mercado --
+[2026-06-23 17:18:44] Precio: 1661.58 | RSI: 46.41 | BB inf: 1657.85 | BB sup: 1669.51
+[2026-06-23 17:18:44] Balance: $10,193.83 | Equity: $10,195.81 | Posiciones abiertas: 1/2
+[2026-06-23 17:18:44]   Pos 38670744 | SELL | P&L: $0.04
+[2026-06-23 17:18:44]   P&L total flotante: $0.04
+[2026-06-23 17:18:44] Manteniendo posicion 1 (SELL)
+[2026-06-23 17:18:44] Proxima revision en 5 minutos
+
+[2026-06-23 17:23:44] -- Revisando mercado --
+[2026-06-23 17:23:44] Precio: 1662.20 | RSI: 50.57 | BB inf: 1657.71 | BB sup: 1669.38
+[2026-06-23 17:23:44] Balance: $10,193.83 | Equity: $10,196.24 | Posiciones abiertas: 1/2
+[2026-06-23 17:23:44]   Pos 38670744 | SELL | P&L: $0.04
+[2026-06-23 17:23:44]   P&L total flotante: $0.04
+[2026-06-23 17:23:44] Manteniendo posicion 1 (SELL)
+[2026-06-23 17:23:44] Proxima revision en 5 minutos
+
+[2026-06-23 17:28:44] -- Revisando mercado --
+[2026-06-23 17:28:44] Precio: 1662.75 | RSI: 53.70 | BB inf: 1657.68 | BB sup: 1669.23
+[2026-06-23 17:28:44] Balance: $10,193.83 | Equity: $10,195.95 | Posiciones abiertas: 1/2
+[2026-06-23 17:28:44]   Pos 38670744 | SELL | P&L: $0.03
+[2026-06-23 17:28:44]   P&L total flotante: $0.03
+[2026-06-23 17:28:44] Manteniendo posicion 1 (SELL)
+[2026-06-23 17:28:44] Proxima revision en 5 minutos
+
+[2026-06-23 17:33:44] -- Revisando mercado --
+[2026-06-23 17:33:44] Precio: 1661.25 | RSI: 44.07 | BB inf: 1657.40 | BB sup: 1669.14
+[2026-06-23 17:33:44] Balance: $10,193.83 | Equity: $10,191.97 | Posiciones abiertas: 1/2
+[2026-06-23 17:33:44]   Pos 38670744 | SELL | P&L: $0.05
+[2026-06-23 17:33:44]   P&L total flotante: $0.05
+[2026-06-23 17:33:44] Manteniendo posicion 1 (SELL)
+[2026-06-23 17:33:44] Proxima revision en 5 minutos
+
+[2026-06-23 17:38:44] -- Revisando mercado --
+[2026-06-23 17:38:44] Precio: 1660.93 | RSI: 42.04 | BB inf: 1657.29 | BB sup: 1668.99
+[2026-06-23 17:38:44] Balance: $10,193.83 | Equity: $10,183.64 | Posiciones abiertas: 1/2
+[2026-06-23 17:38:44]   Pos 38670744 | SELL | P&L: $0.05
+[2026-06-23 17:38:44]   P&L total flotante: $0.05
+[2026-06-23 17:38:44] Manteniendo posicion 1 (SELL)
+[2026-06-23 17:38:44] Proxima revision en 5 minutos
+
+[2026-06-23 17:43:44] -- Revisando mercado --
+[2026-06-23 17:43:44] Precio: 1660.43 | RSI: 40.89 | BB inf: 1656.96 | BB sup: 1668.65
+[2026-06-23 17:43:44] Balance: $10,178.45 | Equity: $10,177.99 | Posiciones abiertas: 1/2
+[2026-06-23 17:43:44]   Pos 38670744 | SELL | P&L: $0.05
+[2026-06-23 17:43:44]   P&L total flotante: $0.05
+[2026-06-23 17:43:44] Manteniendo posicion 1 (SELL)
+[2026-06-23 17:43:44] Proxima revision en 5 minutos
+
+[2026-06-23 17:48:44] -- Revisando mercado --
+[2026-06-23 17:48:44] Precio: 1665.23 | RSI: 64.47 | BB inf: 1657.44 | BB sup: 1667.80
+[2026-06-23 17:48:44] Balance: $10,178.45 | Equity: $10,190.36 | Posiciones abiertas: 1/2
+[2026-06-23 17:48:44]   Pos 38670744 | SELL | P&L: $0.01
+[2026-06-23 17:48:44]   P&L total flotante: $0.01
+[2026-06-23 17:48:44] Manteniendo posicion 1 (SELL)
+[2026-06-23 17:48:44] Proxima revision en 5 minutos
+
+[2026-06-23 17:53:44] -- Revisando mercado --
+[2026-06-23 17:53:44] Precio: 1665.05 | RSI: 63.22 | BB inf: 1658.19 | BB sup: 1666.60
+[2026-06-23 17:53:44] Balance: $10,178.45 | Equity: $10,194.71 | Posiciones abiertas: 1/2
+[2026-06-23 17:53:44]   Pos 38670744 | SELL | P&L: $0.01
+[2026-06-23 17:53:44]   P&L total flotante: $0.01
+[2026-06-23 17:53:44] Manteniendo posicion 1 (SELL)
+[2026-06-23 17:53:44] Proxima revision en 5 minutos
+
+[2026-06-23 17:58:44] -- Revisando mercado --
+[2026-06-23 17:58:44] Precio: 1665.63 | RSI: 64.52 | BB inf: 1658.82 | BB sup: 1665.65
+[2026-06-23 17:58:44] Balance: $10,178.45 | Equity: $10,195.76 | Posiciones abiertas: 1/2
+[2026-06-23 17:58:44]   Pos 38670744 | SELL | P&L: $0.00
+[2026-06-23 17:58:44]   P&L total flotante: $0.00
+[2026-06-23 17:58:44] Manteniendo posicion 1 (SELL)
+[2026-06-23 17:58:44] Proxima revision en 5 minutos
+
+[2026-06-23 18:03:44] -- Revisando mercado --
+[2026-06-23 18:03:44] Precio: 1666.08 | RSI: 66.33 | BB inf: 1658.61 | BB sup: 1666.13
+[2026-06-23 18:03:44] Balance: $10,178.45 | Equity: $10,196.90 | Posiciones abiertas: 1/2
+[2026-06-23 18:03:44]   Pos 38670744 | SELL | P&L: $-0.00
+[2026-06-23 18:03:44]   P&L total flotante: $0.00
+[2026-06-23 18:03:44] Manteniendo posicion 1 (SELL)
+[2026-06-23 18:03:44] Proxima revision en 5 minutos
+
+[2026-06-23 18:08:44] -- Revisando mercado --
+[2026-06-23 18:08:44] Precio: 1668.25 | RSI: 73.34 | BB inf: 1658.06 | BB sup: 1667.14
+[2026-06-23 18:08:44] Balance: $10,178.45 | Equity: $10,205.32 | Posiciones abiertas: 1/2
+[2026-06-23 18:08:44]   Pos 38670744 | SELL | P&L: $-0.03
+[2026-06-23 18:08:44]   P&L total flotante: $-0.03
+[2026-06-23 18:08:44] Senal SELL pero pos1 aun no alcanza ganancia minima ($-0.03 / $0.5) — esperando
+[2026-06-23 18:08:44] Proxima revision en 5 minutos
+
+[2026-06-23 18:13:44] -- Revisando mercado --
+[2026-06-23 18:13:44] Precio: 1667.00 | RSI: 62.58 | BB inf: 1657.74 | BB sup: 1667.96
+[2026-06-23 18:13:44] Balance: $10,178.45 | Equity: $10,202.11 | Posiciones abiertas: 1/2
+[2026-06-23 18:13:44]   Pos 38670744 | SELL | P&L: $-0.01
+[2026-06-23 18:13:44]   P&L total flotante: $-0.01
+[2026-06-23 18:13:44] Manteniendo posicion 1 (SELL)
+[2026-06-23 18:13:44] Proxima revision en 5 minutos
+
+[2026-06-23 18:18:44] -- Revisando mercado --
+[2026-06-23 18:18:44] Precio: 1669.80 | RSI: 77.23 | BB inf: 1656.99 | BB sup: 1669.63
+[2026-06-23 18:18:44] Balance: $10,178.45 | Equity: $10,200.43 | Posiciones abiertas: 1/2
+[2026-06-23 18:18:44]   Pos 38670744 | SELL | P&L: $-0.04
+[2026-06-23 18:18:44]   P&L total flotante: $-0.04
+[2026-06-23 18:18:44] Senal SELL pero pos1 aun no alcanza ganancia minima ($-0.04 / $0.5) — esperando
+[2026-06-23 18:18:44] Proxima revision en 5 minutos
+
+[2026-06-23 18:23:44] -- Revisando mercado --
+[2026-06-23 18:23:44] Precio: 1666.95 | RSI: 58.19 | BB inf: 1657.19 | BB sup: 1669.91
+[2026-06-23 18:23:44] Balance: $10,178.98 | Equity: $10,196.54 | Posiciones abiertas: 1/2
+[2026-06-23 18:23:44]   Pos 38670744 | SELL | P&L: $-0.01
+[2026-06-23 18:23:44]   P&L total flotante: $-0.01
+[2026-06-23 18:23:44] Manteniendo posicion 1 (SELL)
+[2026-06-23 18:23:44] Proxima revision en 5 minutos
+
+[2026-06-23 18:28:44] -- Revisando mercado --
+[2026-06-23 18:28:44] Precio: 1666.03 | RSI: 52.73 | BB inf: 1657.34 | BB sup: 1670.12
+[2026-06-23 18:28:44] Balance: $10,178.98 | Equity: $10,192.21 | Posiciones abiertas: 1/2
+[2026-06-23 18:28:44]   Pos 38670744 | SELL | P&L: $-0.00
+[2026-06-23 18:28:44]   P&L total flotante: $0.00
+[2026-06-23 18:28:44] Manteniendo posicion 1 (SELL)
+[2026-06-23 18:28:44] Proxima revision en 5 minutos
+
+[2026-06-23 18:33:44] -- Revisando mercado --
+[2026-06-23 18:33:44] Precio: 1666.00 | RSI: 51.82 | BB inf: 1657.54 | BB sup: 1670.44
+[2026-06-23 18:33:44] Balance: $10,178.98 | Equity: $10,193.38 | Posiciones abiertas: 1/2
+[2026-06-23 18:33:44]   Pos 38670744 | SELL | P&L: $-0.00
+[2026-06-23 18:33:44]   P&L total flotante: $0.00
+[2026-06-23 18:33:44] Manteniendo posicion 1 (SELL)
+[2026-06-23 18:33:44] Proxima revision en 5 minutos
+
+[2026-06-23 18:38:44] -- Revisando mercado --
+[2026-06-23 18:38:44] Precio: 1669.65 | RSI: 69.78 | BB inf: 1657.43 | BB sup: 1671.39
+[2026-06-23 18:38:44] Balance: $10,178.98 | Equity: $10,191.17 | Posiciones abiertas: 1/2
+[2026-06-23 18:38:44]   Pos 38670744 | SELL | P&L: $-0.04
+[2026-06-23 18:38:44]   P&L total flotante: $-0.04
+[2026-06-23 18:38:44] Manteniendo posicion 1 (SELL)
+[2026-06-23 18:38:44] Proxima revision en 5 minutos
+
+[2026-06-23 18:43:44] -- Revisando mercado --
+[2026-06-23 18:43:44] Precio: 1669.38 | RSI: 60.45 | BB inf: 1657.47 | BB sup: 1672.44
+[2026-06-23 18:43:44] Balance: $10,178.98 | Equity: $10,191.80 | Posiciones abiertas: 1/2
+[2026-06-23 18:43:44]   Pos 38670744 | SELL | P&L: $-0.04
+[2026-06-23 18:43:44]   P&L total flotante: $-0.04
+[2026-06-23 18:43:44] Manteniendo posicion 1 (SELL)
+[2026-06-23 18:43:44] Proxima revision en 5 minutos
+
+[2026-06-23 18:48:44] -- Revisando mercado --
+[2026-06-23 18:48:44] Precio: 1669.70 | RSI: 60.58 | BB inf: 1658.18 | BB sup: 1672.66
+[2026-06-23 18:48:44] Balance: $10,178.98 | Equity: $10,194.39 | Posiciones abiertas: 1/2
+[2026-06-23 18:48:44]   Pos 38670744 | SELL | P&L: $-0.04
+[2026-06-23 18:48:44]   P&L total flotante: $-0.04
+[2026-06-23 18:48:44] Manteniendo posicion 1 (SELL)
+[2026-06-23 18:48:44] Proxima revision en 5 minutos
+
+[2026-06-23 18:53:44] -- Revisando mercado --
+[2026-06-23 18:53:44] Precio: 1669.68 | RSI: 59.54 | BB inf: 1659.02 | BB sup: 1672.89
+[2026-06-23 18:53:44] Balance: $10,178.98 | Equity: $10,192.16 | Posiciones abiertas: 1/2
+[2026-06-23 18:53:44]   Pos 38670744 | SELL | P&L: $-0.04
+[2026-06-23 18:53:44]   P&L total flotante: $-0.04
+[2026-06-23 18:53:44] Manteniendo posicion 1 (SELL)
+[2026-06-23 18:53:44] Proxima revision en 5 minutos
+
+[2026-06-23 18:58:44] -- Revisando mercado --
+[2026-06-23 18:58:44] Precio: 1669.40 | RSI: 57.87 | BB inf: 1659.60 | BB sup: 1673.02
+[2026-06-23 18:58:44] Balance: $10,178.98 | Equity: $10,190.57 | Posiciones abiertas: 1/2
+[2026-06-23 18:58:44]   Pos 38670744 | SELL | P&L: $-0.04
+[2026-06-23 18:58:44]   P&L total flotante: $-0.04
+[2026-06-23 18:58:44] Manteniendo posicion 1 (SELL)
+[2026-06-23 18:58:44] Proxima revision en 5 minutos
+
+[2026-06-23 19:03:44] -- Revisando mercado --
+[2026-06-23 19:03:44] Precio: 1667.13 | RSI: 47.12 | BB inf: 1660.02 | BB sup: 1673.04
+[2026-06-23 19:03:44] Balance: $10,178.98 | Equity: $10,172.01 | Posiciones abiertas: 1/2
+[2026-06-23 19:03:44]   Pos 38670744 | SELL | P&L: $-0.01
+[2026-06-23 19:03:44]   P&L total flotante: $-0.01
+[2026-06-23 19:03:44] Manteniendo posicion 1 (SELL)
+[2026-06-23 19:03:44] Proxima revision en 5 minutos
+
+[2026-06-23 19:08:44] -- Revisando mercado --
+[2026-06-23 19:08:44] Precio: 1666.43 | RSI: 45.38 | BB inf: 1660.51 | BB sup: 1672.86
+[2026-06-23 19:08:44] Balance: $10,178.98 | Equity: $10,176.66 | Posiciones abiertas: 1/2
+[2026-06-23 19:08:44]   Pos 38670744 | SELL | P&L: $-0.01
+[2026-06-23 19:08:44]   P&L total flotante: $-0.01
+[2026-06-23 19:08:44] Manteniendo posicion 1 (SELL)
+[2026-06-23 19:08:44] Proxima revision en 5 minutos
+
+[2026-06-23 19:13:44] -- Revisando mercado --
+[2026-06-23 19:13:44] Precio: 1669.30 | RSI: 57.08 | BB inf: 1661.03 | BB sup: 1672.98
+[2026-06-23 19:13:44] Balance: $10,178.98 | Equity: $10,183.14 | Posiciones abiertas: 1/2
+[2026-06-23 19:13:44]   Pos 38670744 | SELL | P&L: $-0.03
+[2026-06-23 19:13:44]   P&L total flotante: $-0.03
+[2026-06-23 19:13:44] Manteniendo posicion 1 (SELL)
+[2026-06-23 19:13:44] Proxima revision en 5 minutos
+
+[2026-06-23 19:18:44] -- Revisando mercado --
+[2026-06-23 19:18:44] Precio: 1663.93 | RSI: 39.90 | BB inf: 1661.93 | BB sup: 1672.57
+[2026-06-23 19:18:44] Balance: $10,178.98 | Equity: $10,180.84 | Posiciones abiertas: 1/2
+[2026-06-23 19:18:44]   Pos 38670744 | SELL | P&L: $0.02
+[2026-06-23 19:18:44]   P&L total flotante: $0.02
+[2026-06-23 19:18:44] Manteniendo posicion 1 (SELL)
+[2026-06-23 19:18:44] Proxima revision en 5 minutos
+
+[2026-06-23 19:23:44] -- Revisando mercado --
+[2026-06-23 19:23:44] Precio: 1666.85 | RSI: 48.69 | BB inf: 1663.36 | BB sup: 1671.82
+[2026-06-23 19:23:44] Balance: $10,178.98 | Equity: $10,180.11 | Posiciones abiertas: 1/2
+[2026-06-23 19:23:44]   Pos 38670744 | SELL | P&L: $-0.01
+[2026-06-23 19:23:44]   P&L total flotante: $-0.01
+[2026-06-23 19:23:44] Manteniendo posicion 1 (SELL)
+[2026-06-23 19:23:44] Proxima revision en 5 minutos
+
+[2026-06-23 19:28:44] -- Revisando mercado --
+[2026-06-23 19:28:44] Precio: 1668.73 | RSI: 53.14 | BB inf: 1663.74 | BB sup: 1672.01
+[2026-06-23 19:28:44] Balance: $10,178.98 | Equity: $10,190.89 | Posiciones abiertas: 1/2
+[2026-06-23 19:28:44]   Pos 38670744 | SELL | P&L: $-0.03
+[2026-06-23 19:28:44]   P&L total flotante: $-0.03
+[2026-06-23 19:28:44] Manteniendo posicion 1 (SELL)
+[2026-06-23 19:28:44] Proxima revision en 5 minutos
+
+[2026-06-23 19:33:44] -- Revisando mercado --
+[2026-06-23 19:33:44] Precio: 1676.70 | RSI: 69.30 | BB inf: 1663.05 | BB sup: 1673.97
+[2026-06-23 19:33:44] Balance: $10,178.98 | Equity: $10,194.36 | Posiciones abiertas: 1/2
+[2026-06-23 19:33:44]   Pos 38670744 | SELL | P&L: $-0.11
+[2026-06-23 19:33:44]   P&L total flotante: $-0.11
+[2026-06-23 19:33:44] Senal SELL pero pos1 aun no alcanza ganancia minima ($-0.11 / $0.5) — esperando
+[2026-06-23 19:33:44] Proxima revision en 5 minutos
+
+[2026-06-23 19:38:44] -- Revisando mercado --
+[2026-06-23 19:38:44] Precio: 1675.65 | RSI: 66.97 | BB inf: 1663.05 | BB sup: 1674.94
+[2026-06-23 19:38:44] Balance: $10,178.98 | Equity: $10,189.31 | Posiciones abiertas: 1/2
+[2026-06-23 19:38:44]   Pos 38670744 | SELL | P&L: $-0.10
+[2026-06-23 19:38:44]   P&L total flotante: $-0.10
+[2026-06-23 19:38:44] Senal SELL pero pos1 aun no alcanza ganancia minima ($-0.10 / $0.5) — esperando
+[2026-06-23 19:38:44] Proxima revision en 5 minutos
+
+[2026-06-23 19:43:44] -- Revisando mercado --
+[2026-06-23 19:43:44] Precio: 1673.13 | RSI: 58.65 | BB inf: 1663.43 | BB sup: 1675.23
+[2026-06-23 19:43:44] Balance: $10,178.98 | Equity: $10,189.55 | Posiciones abiertas: 1/2
+[2026-06-23 19:43:44]   Pos 38670744 | SELL | P&L: $-0.07
+[2026-06-23 19:43:44]   P&L total flotante: $-0.07
+[2026-06-23 19:43:44] Manteniendo posicion 1 (SELL)
+[2026-06-23 19:43:44] Proxima revision en 5 minutos
+
+[2026-06-23 19:48:44] -- Revisando mercado --
+[2026-06-23 19:48:44] Precio: 1673.75 | RSI: 59.56 | BB inf: 1663.40 | BB sup: 1675.66
+[2026-06-23 19:48:44] Balance: $10,178.98 | Equity: $10,183.72 | Posiciones abiertas: 1/2
+[2026-06-23 19:48:44]   Pos 38670744 | SELL | P&L: $-0.08
+[2026-06-23 19:48:44]   P&L total flotante: $-0.08
+[2026-06-23 19:48:44] Manteniendo posicion 1 (SELL)
+[2026-06-23 19:48:44] Proxima revision en 5 minutos
+
+[2026-06-23 19:53:44] -- Revisando mercado --
+[2026-06-23 19:53:44] Precio: 1673.75 | RSI: 59.61 | BB inf: 1663.37 | BB sup: 1676.14
+[2026-06-23 19:53:44] Balance: $10,178.98 | Equity: $10,180.42 | Posiciones abiertas: 1/2
+[2026-06-23 19:53:44]   Pos 38670744 | SELL | P&L: $-0.08
+[2026-06-23 19:53:44]   P&L total flotante: $-0.08
+[2026-06-23 19:53:44] Manteniendo posicion 1 (SELL)
+[2026-06-23 19:53:44] Proxima revision en 5 minutos
+
+[2026-06-23 19:58:44] -- Revisando mercado --
+[2026-06-23 19:58:44] Precio: 1670.33 | RSI: 48.21 | BB inf: 1663.42 | BB sup: 1676.20
+[2026-06-23 19:58:44] Balance: $10,178.98 | Equity: $10,184.74 | Posiciones abiertas: 1/2
+[2026-06-23 19:58:44]   Pos 38670744 | SELL | P&L: $-0.04
+[2026-06-23 19:58:44]   P&L total flotante: $-0.04
+[2026-06-23 19:58:44] Manteniendo posicion 1 (SELL)
+[2026-06-23 19:58:44] Proxima revision en 5 minutos
+
+[2026-06-23 20:03:44] -- Revisando mercado --
+[2026-06-23 20:03:44] Precio: 1668.15 | RSI: 42.22 | BB inf: 1663.62 | BB sup: 1676.17
+[2026-06-23 20:03:44] Balance: $10,178.98 | Equity: $10,183.42 | Posiciones abiertas: 1/2
+[2026-06-23 20:03:44]   Pos 38670744 | SELL | P&L: $-0.02
+[2026-06-23 20:03:44]   P&L total flotante: $-0.02
+[2026-06-23 20:03:44] Manteniendo posicion 1 (SELL)
+[2026-06-23 20:03:44] Proxima revision en 5 minutos
+
+[2026-06-23 20:08:44] -- Revisando mercado --
+[2026-06-23 20:08:44] Precio: 1666.88 | RSI: 39.05 | BB inf: 1663.61 | BB sup: 1676.17
+[2026-06-23 20:08:44] Balance: $10,178.98 | Equity: $10,176.44 | Posiciones abiertas: 1/2
+[2026-06-23 20:08:44]   Pos 38670744 | SELL | P&L: $-0.01
+[2026-06-23 20:08:44]   P&L total flotante: $-0.01
+[2026-06-23 20:08:44] Manteniendo posicion 1 (SELL)
+[2026-06-23 20:08:44] Proxima revision en 5 minutos
+
+[2026-06-23 20:13:44] -- Revisando mercado --
+[2026-06-23 20:13:44] Precio: 1669.35 | RSI: 47.22 | BB inf: 1663.96 | BB sup: 1676.12
+[2026-06-23 20:13:44] Balance: $10,178.98 | Equity: $10,178.75 | Posiciones abiertas: 1/2
+[2026-06-23 20:13:44]   Pos 38670744 | SELL | P&L: $-0.03
+[2026-06-23 20:13:44]   P&L total flotante: $-0.03
+[2026-06-23 20:13:44] Manteniendo posicion 1 (SELL)
+[2026-06-23 20:13:44] Proxima revision en 5 minutos
+
+[2026-06-23 20:18:44] -- Revisando mercado --
+[2026-06-23 20:18:44] Precio: 1665.93 | RSI: 37.54 | BB inf: 1663.48 | BB sup: 1676.02
+[2026-06-23 20:18:44] Balance: $10,178.98 | Equity: $10,171.15 | Posiciones abiertas: 1/2
+[2026-06-23 20:18:44]   Pos 38670744 | SELL | P&L: $-0.00
+[2026-06-23 20:18:44]   P&L total flotante: $0.00
+[2026-06-23 20:18:44] Manteniendo posicion 1 (SELL)
+[2026-06-23 20:18:44] Proxima revision en 5 minutos
+
+[2026-06-23 20:23:44] -- Revisando mercado --
+[2026-06-23 20:23:44] Precio: 1663.45 | RSI: 32.14 | BB inf: 1662.57 | BB sup: 1676.38
+[2026-06-23 20:23:44] Balance: $10,178.98 | Equity: $10,171.66 | Posiciones abiertas: 1/2
+[2026-06-23 20:23:44]   Pos 38670744 | SELL | P&L: $0.02
+[2026-06-23 20:23:44]   P&L total flotante: $0.02
+[2026-06-23 20:23:44] Manteniendo posicion 1 (SELL)
+[2026-06-23 20:23:44] Proxima revision en 5 minutos
+
+[2026-06-23 20:28:44] -- Revisando mercado --
+[2026-06-23 20:28:44] Precio: 1664.93 | RSI: 39.07 | BB inf: 1661.93 | BB sup: 1676.46
+[2026-06-23 20:28:44] Balance: $10,178.98 | Equity: $10,167.39 | Posiciones abiertas: 1/2
+[2026-06-23 20:28:44]   Pos 38670744 | SELL | P&L: $0.01
+[2026-06-23 20:28:44]   P&L total flotante: $0.01
+[2026-06-23 20:28:44] Manteniendo posicion 1 (SELL)
+[2026-06-23 20:28:44] Proxima revision en 5 minutos
+
+[2026-06-23 20:33:44] -- Revisando mercado --
+[2026-06-23 20:33:44] Precio: 1664.53 | RSI: 38.54 | BB inf: 1661.50 | BB sup: 1676.50
+[2026-06-23 20:33:44] Balance: $10,163.46 | Equity: $10,163.25 | Posiciones abiertas: 1/2
+[2026-06-23 20:33:44]   Pos 38670744 | SELL | P&L: $0.01
+[2026-06-23 20:33:44]   P&L total flotante: $0.01
+[2026-06-23 20:33:44] Manteniendo posicion 1 (SELL)
+[2026-06-23 20:33:44] Proxima revision en 5 minutos
+
+[2026-06-23 20:38:44] -- Revisando mercado --
+[2026-06-23 20:38:44] Precio: 1664.45 | RSI: 39.13 | BB inf: 1660.90 | BB sup: 1676.55
+[2026-06-23 20:38:44] Balance: $10,163.46 | Equity: $10,163.16 | Posiciones abiertas: 1/2
+[2026-06-23 20:38:44]   Pos 38670744 | SELL | P&L: $0.01
+[2026-06-23 20:38:44]   P&L total flotante: $0.01
+[2026-06-23 20:38:44] Manteniendo posicion 1 (SELL)
+[2026-06-23 20:38:44] Proxima revision en 5 minutos
+
+[2026-06-23 23:25:12] -- Revisando mercado --
+[2026-06-23 23:25:12] Precio: 1670.98 | RSI: 71.03 | BB inf: 1656.72 | BB sup: 1672.98
+[2026-06-23 23:25:12] Balance: $10,162.45 | Equity: $10,162.40 | Posiciones abiertas: 1/2
+[2026-06-23 23:25:12]   Pos 38670744 | SELL | P&L: $-0.05
+[2026-06-23 23:25:12]   P&L total flotante: $-0.05
+[2026-06-23 23:25:12] Manteniendo posicion 1 (SELL)
+[2026-06-23 23:25:12] Proxima revision en 5 minutos
+
+[2026-06-23 23:30:12] -- Revisando mercado --
+[2026-06-23 23:30:12] Precio: 1671.08 | RSI: 70.72 | BB inf: 1656.49 | BB sup: 1673.74
+[2026-06-23 23:30:12] Balance: $10,162.45 | Equity: $10,159.05 | Posiciones abiertas: 1/2
+[2026-06-23 23:30:12]   Pos 38670744 | SELL | P&L: $-0.05
+[2026-06-23 23:30:12]   P&L total flotante: $-0.05
+[2026-06-23 23:30:12] Manteniendo posicion 1 (SELL)
+[2026-06-23 23:30:12] Proxima revision en 5 minutos
+
+[2026-06-23 23:35:12] -- Revisando mercado --
+[2026-06-23 23:35:12] Precio: 1671.58 | RSI: 71.79 | BB inf: 1656.38 | BB sup: 1674.52
+[2026-06-23 23:35:12] Balance: $10,162.45 | Equity: $10,153.76 | Posiciones abiertas: 1/2
+[2026-06-23 23:35:12]   Pos 38670744 | SELL | P&L: $-0.06
+[2026-06-23 23:35:12]   P&L total flotante: $-0.06
+[2026-06-23 23:35:12] Manteniendo posicion 1 (SELL)
+[2026-06-23 23:35:12] Proxima revision en 5 minutos
+
+[2026-06-23 23:40:12] -- Revisando mercado --
+[2026-06-23 23:40:12] Precio: 1675.23 | RSI: 80.13 | BB inf: 1655.89 | BB sup: 1676.46
+[2026-06-23 23:40:12] Balance: $10,162.45 | Equity: $10,158.67 | Posiciones abiertas: 1/2
+[2026-06-23 23:40:12]   Pos 38670744 | SELL | P&L: $-0.10
+[2026-06-23 23:40:12]   P&L total flotante: $-0.10
+[2026-06-23 23:40:12] Manteniendo posicion 1 (SELL)
+[2026-06-23 23:40:12] Proxima revision en 5 minutos
+
+[2026-06-23 23:45:12] -- Revisando mercado --
+[2026-06-23 23:45:12] Precio: 1672.80 | RSI: 69.11 | BB inf: 1656.34 | BB sup: 1676.91
+[2026-06-23 23:45:12] Balance: $10,162.45 | Equity: $10,158.73 | Posiciones abiertas: 1/2
+[2026-06-23 23:45:12]   Pos 38670744 | SELL | P&L: $-0.07
+[2026-06-23 23:45:12]   P&L total flotante: $-0.07
+[2026-06-23 23:45:12] Manteniendo posicion 1 (SELL)
+[2026-06-23 23:45:12] Proxima revision en 5 minutos
+
+[2026-06-23 23:50:12] -- Revisando mercado --
+[2026-06-23 23:50:12] Precio: 1672.35 | RSI: 65.50 | BB inf: 1656.66 | BB sup: 1677.54
+[2026-06-23 23:50:12] Balance: $10,162.45 | Equity: $10,160.66 | Posiciones abiertas: 1/2
+[2026-06-23 23:50:12]   Pos 38670744 | SELL | P&L: $-0.06
+[2026-06-23 23:50:12]   P&L total flotante: $-0.06
+[2026-06-23 23:50:12] Manteniendo posicion 1 (SELL)
+[2026-06-23 23:50:12] Proxima revision en 5 minutos
+
+[2026-06-23 23:55:12] -- Revisando mercado --
+[2026-06-23 23:55:12] Precio: 1671.13 | RSI: 57.44 | BB inf: 1657.44 | BB sup: 1677.64
+[2026-06-23 23:55:12] Balance: $10,162.45 | Equity: $10,161.94 | Posiciones abiertas: 1/2
+[2026-06-23 23:55:12]   Pos 38670744 | SELL | P&L: $-0.05
+[2026-06-23 23:55:12]   P&L total flotante: $-0.05
+[2026-06-23 23:55:12] Manteniendo posicion 1 (SELL)
+[2026-06-23 23:55:12] Proxima revision en 5 minutos
+
+[2026-06-24 00:00:12] -- Revisando mercado --
+[2026-06-24 00:00:12] Precio: 1672.93 | RSI: 65.25 | BB inf: 1659.46 | BB sup: 1677.43
+[2026-06-24 00:00:12] Balance: $10,162.45 | Equity: $10,157.18 | Posiciones abiertas: 1/2
+[2026-06-24 00:00:12]   Pos 38670744 | SELL | P&L: $-0.07
+[2026-06-24 00:00:12]   P&L total flotante: $-0.07
+[2026-06-24 00:00:12] Manteniendo posicion 1 (SELL)
+[2026-06-24 00:00:12] Proxima revision en 5 minutos
+
+[2026-06-24 00:05:12] -- Revisando mercado --
+[2026-06-24 00:05:12] Precio: 1669.10 | RSI: 46.14 | BB inf: 1661.66 | BB sup: 1675.95
+[2026-06-24 00:05:12] Balance: $10,162.45 | Equity: $10,156.74 | Posiciones abiertas: 1/2
+[2026-06-24 00:05:12]   Pos 38670744 | SELL | P&L: $-0.03
+[2026-06-24 00:05:12]   P&L total flotante: $-0.03
+[2026-06-24 00:05:12] Manteniendo posicion 1 (SELL)
+[2026-06-24 00:05:12] Proxima revision en 5 minutos
+
+[2026-06-24 00:10:12] -- Revisando mercado --
+[2026-06-24 00:10:12] Precio: 1671.43 | RSI: 54.98 | BB inf: 1662.85 | BB sup: 1675.96
+[2026-06-24 00:10:12] Balance: $10,146.99 | Equity: $10,147.84 | Posiciones abiertas: 1/2
+[2026-06-24 00:10:12]   Pos 38670744 | SELL | P&L: $-0.06
+[2026-06-24 00:10:12]   P&L total flotante: $-0.06
+[2026-06-24 00:10:12] Manteniendo posicion 1 (SELL)
+[2026-06-24 00:10:12] Proxima revision en 5 minutos
+
+[2026-06-24 00:15:12] -- Revisando mercado --
+[2026-06-24 00:15:12] Precio: 1671.60 | RSI: 55.75 | BB inf: 1664.23 | BB sup: 1675.54
+[2026-06-24 00:15:12] Balance: $10,146.99 | Equity: $10,140.12 | Posiciones abiertas: 1/2
+[2026-06-24 00:15:12]   Pos 38670744 | SELL | P&L: $-0.06
+[2026-06-24 00:15:12]   P&L total flotante: $-0.06
+[2026-06-24 00:15:12] Manteniendo posicion 1 (SELL)
+[2026-06-24 00:15:12] Proxima revision en 5 minutos
+
+[2026-06-24 00:20:12] -- Revisando mercado --
+[2026-06-24 00:20:12] Precio: 1670.78 | RSI: 51.24 | BB inf: 1665.79 | BB sup: 1674.79
+[2026-06-24 00:20:12] Balance: $10,146.99 | Equity: $10,151.08 | Posiciones abiertas: 1/2
+[2026-06-24 00:20:12]   Pos 38670744 | SELL | P&L: $-0.05
+[2026-06-24 00:20:12]   P&L total flotante: $-0.05
+[2026-06-24 00:20:12] Manteniendo posicion 1 (SELL)
+[2026-06-24 00:20:12] Proxima revision en 5 minutos
+
+[2026-06-24 01:27:32] -- Revisando mercado --
+[2026-06-24 01:27:32] Precio: 1672.15 | RSI: 47.16 | BB inf: 1669.54 | BB sup: 1675.28
+[2026-06-24 01:27:32] Balance: $10,146.99 | Equity: $10,152.89 | Posiciones abiertas: 1/2
+[2026-06-24 01:27:32]   Pos 38670744 | SELL | P&L: $-0.06
+[2026-06-24 01:27:32]   P&L total flotante: $-0.06
+[2026-06-24 01:27:32] Manteniendo posicion 1 (SELL)
+[2026-06-24 01:27:32] Proxima revision en 5 minutos
+
+[2026-06-24 01:32:32] -- Revisando mercado --
+[2026-06-24 01:32:32] Precio: 1670.83 | RSI: 41.65 | BB inf: 1669.36 | BB sup: 1675.31
+[2026-06-24 01:32:32] Balance: $10,146.99 | Equity: $10,157.46 | Posiciones abiertas: 1/2
+[2026-06-24 01:32:32]   Pos 38670744 | SELL | P&L: $-0.05
+[2026-06-24 01:32:32]   P&L total flotante: $-0.05
+[2026-06-24 01:32:32] Manteniendo posicion 1 (SELL)
+[2026-06-24 01:32:32] Proxima revision en 5 minutos
+
+[2026-06-24 01:37:32] -- Revisando mercado --
+[2026-06-24 01:37:32] Precio: 1669.08 | RSI: 36.76 | BB inf: 1668.99 | BB sup: 1675.48
+[2026-06-24 01:37:32] Balance: $10,160.54 | Equity: $10,161.43 | Posiciones abiertas: 1/2
+[2026-06-24 01:37:32]   Pos 38670744 | SELL | P&L: $-0.03
+[2026-06-24 01:37:32]   P&L total flotante: $-0.03
+[2026-06-24 01:37:32] Manteniendo posicion 1 (SELL)
+[2026-06-24 01:37:32] Proxima revision en 5 minutos
+
+[2026-06-24 01:42:32] -- Revisando mercado --
+[2026-06-24 01:42:32] Precio: 1669.93 | RSI: 40.28 | BB inf: 1669.45 | BB sup: 1675.20
+[2026-06-24 01:42:32] Balance: $10,160.54 | Equity: $10,162.58 | Posiciones abiertas: 1/2
+[2026-06-24 01:42:32]   Pos 38670744 | SELL | P&L: $-0.04
+[2026-06-24 01:42:32]   P&L total flotante: $-0.04
+[2026-06-24 01:42:32] Manteniendo posicion 1 (SELL)
+[2026-06-24 01:42:32] Proxima revision en 5 minutos
+
+[2026-06-24 01:47:32] -- Revisando mercado --
+[2026-06-24 01:47:32] Precio: 1671.03 | RSI: 46.17 | BB inf: 1669.46 | BB sup: 1675.17
+[2026-06-24 01:47:32] Balance: $10,160.54 | Equity: $10,167.40 | Posiciones abiertas: 1/2
+[2026-06-24 01:47:32]   Pos 38670744 | SELL | P&L: $-0.05
+[2026-06-24 01:47:32]   P&L total flotante: $-0.05
+[2026-06-24 01:47:32] Manteniendo posicion 1 (SELL)
+[2026-06-24 01:47:32] Proxima revision en 5 minutos
+
+[2026-06-24 01:52:32] -- Revisando mercado --
+[2026-06-24 01:52:32] Precio: 1670.18 | RSI: 42.03 | BB inf: 1669.08 | BB sup: 1675.30
+[2026-06-24 01:52:32] Balance: $10,160.54 | Equity: $10,163.45 | Posiciones abiertas: 1/2
+[2026-06-24 01:52:32]   Pos 38670744 | SELL | P&L: $-0.04
+[2026-06-24 01:52:32]   P&L total flotante: $-0.04
+[2026-06-24 01:52:32] Manteniendo posicion 1 (SELL)
+[2026-06-24 01:52:32] Proxima revision en 5 minutos
+
+[2026-06-24 01:57:32] -- Revisando mercado --
+[2026-06-24 01:57:32] Precio: 1670.13 | RSI: 42.39 | BB inf: 1669.00 | BB sup: 1675.32
+[2026-06-24 01:57:32] Balance: $10,161.92 | Equity: $10,159.76 | Posiciones abiertas: 1/2
+[2026-06-24 01:57:32]   Pos 38670744 | SELL | P&L: $-0.04
+[2026-06-24 01:57:32]   P&L total flotante: $-0.04
+[2026-06-24 01:57:32] Manteniendo posicion 1 (SELL)
+[2026-06-24 01:57:32] Proxima revision en 5 minutos
+
+[2026-06-24 02:02:32] -- Revisando mercado --
+[2026-06-24 02:02:32] Precio: 1671.30 | RSI: 49.44 | BB inf: 1669.01 | BB sup: 1675.26
+[2026-06-24 02:02:32] Balance: $10,161.92 | Equity: $10,160.64 | Posiciones abiertas: 1/2
+[2026-06-24 02:02:32]   Pos 38670744 | SELL | P&L: $-0.05
+[2026-06-24 02:02:32]   P&L total flotante: $-0.05
+[2026-06-24 02:02:32] Manteniendo posicion 1 (SELL)
+[2026-06-24 02:02:32] Proxima revision en 5 minutos
+
+[2026-06-24 02:07:32] -- Revisando mercado --
+[2026-06-24 02:07:32] Precio: 1669.55 | RSI: 39.98 | BB inf: 1668.69 | BB sup: 1675.30
+[2026-06-24 02:07:32] Balance: $10,161.92 | Equity: $10,161.26 | Posiciones abiertas: 1/2
+[2026-06-24 02:07:32]   Pos 38670744 | SELL | P&L: $-0.04
+[2026-06-24 02:07:32]   P&L total flotante: $-0.04
+[2026-06-24 02:07:32] Manteniendo posicion 1 (SELL)
+[2026-06-24 02:07:32] Proxima revision en 5 minutos
+
+[2026-06-24 02:12:32] -- Revisando mercado --
+[2026-06-24 02:12:32] Precio: 1667.10 | RSI: 30.81 | BB inf: 1667.76 | BB sup: 1675.54
+[2026-06-24 02:12:32] Balance: $10,161.92 | Equity: $10,158.29 | Posiciones abiertas: 1/2
+[2026-06-24 02:12:32]   Pos 38670744 | SELL | P&L: $-0.01
+[2026-06-24 02:12:32]   P&L total flotante: $-0.01
+[2026-06-24 02:12:32] Senal contraria — cerrando pos1 y abriendo BUY
+[2026-06-24 02:12:33] Posicion cerrada | Ticket: 38670744 | Motivo: senal contraria | P&L: $-0.01
+[2026-06-24 02:12:34] Posicion abierta | BUY | Precio: 1667.10 | SL: 1637.1 | TP: 1757.1 | Modo: 1
+[2026-06-24 02:12:34] Proxima revision en 5 minutos
+
+[2026-06-24 02:17:34] -- Revisando mercado --
+[2026-06-24 02:17:34] Precio: 1669.85 | RSI: 44.09 | BB inf: 1668.07 | BB sup: 1675.03
+[2026-06-24 02:17:34] Balance: $10,161.91 | Equity: $10,159.21 | Posiciones abiertas: 1/2
+[2026-06-24 02:17:34]   Pos 38692462 | BUY | P&L: $-0.01
+[2026-06-24 02:17:34]   P&L total flotante: $-0.01
+[2026-06-24 02:17:34] Manteniendo posicion 1 (BUY)
+[2026-06-24 02:17:34] Proxima revision en 5 minutos
+
+[2026-06-24 02:22:34] -- Revisando mercado --
+[2026-06-24 02:22:34] Precio: 1668.23 | RSI: 37.99 | BB inf: 1667.09 | BB sup: 1675.38
+[2026-06-24 02:22:34] Balance: $10,161.91 | Equity: $10,160.35 | Posiciones abiertas: 1/2
+[2026-06-24 02:22:34]   Pos 38692462 | BUY | P&L: $-0.02
+[2026-06-24 02:22:34]   P&L total flotante: $-0.02
+[2026-06-24 02:22:34] Manteniendo posicion 1 (BUY)
+[2026-06-24 02:22:34] Proxima revision en 5 minutos
+
+[2026-06-24 02:27:34] -- Revisando mercado --
+[2026-06-24 02:27:34] Precio: 1668.70 | RSI: 41.10 | BB inf: 1666.88 | BB sup: 1675.35
+[2026-06-24 02:27:34] Balance: $10,161.91 | Equity: $10,162.36 | Posiciones abiertas: 1/2
+[2026-06-24 02:27:34]   Pos 38692462 | BUY | P&L: $-0.02
+[2026-06-24 02:27:34]   P&L total flotante: $-0.02
+[2026-06-24 02:27:34] Manteniendo posicion 1 (BUY)
+[2026-06-24 02:27:34] Proxima revision en 5 minutos
+
+[2026-06-24 02:32:34] -- Revisando mercado --
+[2026-06-24 02:32:34] Precio: 1669.95 | RSI: 50.32 | BB inf: 1666.71 | BB sup: 1675.18
+[2026-06-24 02:32:34] Balance: $10,161.91 | Equity: $10,170.73 | Posiciones abiertas: 1/2
+[2026-06-24 02:32:34]   Pos 38692462 | BUY | P&L: $-0.01
+[2026-06-24 02:32:34]   P&L total flotante: $-0.01
+[2026-06-24 02:32:34] Manteniendo posicion 1 (BUY)
+[2026-06-24 02:32:34] Proxima revision en 5 minutos
+
+[2026-06-24 02:37:34] -- Revisando mercado --
+[2026-06-24 02:37:34] Precio: 1669.65 | RSI: 48.02 | BB inf: 1666.69 | BB sup: 1675.02
+[2026-06-24 02:37:34] Balance: $10,161.91 | Equity: $10,165.56 | Posiciones abiertas: 1/2
+[2026-06-24 02:37:34]   Pos 38692462 | BUY | P&L: $-0.01
+[2026-06-24 02:37:34]   P&L total flotante: $-0.01
+[2026-06-24 02:37:34] Manteniendo posicion 1 (BUY)
+[2026-06-24 02:37:34] Proxima revision en 5 minutos
+
+[2026-06-24 02:42:34] -- Revisando mercado --
+[2026-06-24 02:42:34] Precio: 1669.98 | RSI: 49.81 | BB inf: 1666.71 | BB sup: 1674.64
+[2026-06-24 02:42:34] Balance: $10,161.91 | Equity: $10,166.57 | Posiciones abiertas: 1/2
+[2026-06-24 02:42:34]   Pos 38692462 | BUY | P&L: $-0.00
+[2026-06-24 02:42:34]   P&L total flotante: $0.00
+[2026-06-24 02:42:34] Manteniendo posicion 1 (BUY)
+[2026-06-24 02:42:34] Proxima revision en 5 minutos
+
+[2026-06-24 02:47:34] -- Revisando mercado --
+[2026-06-24 02:47:34] Precio: 1671.25 | RSI: 54.15 | BB inf: 1666.77 | BB sup: 1674.73
+[2026-06-24 02:47:34] Balance: $10,161.91 | Equity: $10,163.17 | Posiciones abiertas: 1/2
+[2026-06-24 02:47:34]   Pos 38692462 | BUY | P&L: $0.01
+[2026-06-24 02:47:34]   P&L total flotante: $0.01
+[2026-06-24 02:47:34] Manteniendo posicion 1 (BUY)
+[2026-06-24 02:47:34] Proxima revision en 5 minutos
+
+[2026-06-24 02:52:34] -- Revisando mercado --
+[2026-06-24 02:52:34] Precio: 1672.28 | RSI: 58.01 | BB inf: 1667.32 | BB sup: 1673.74
+[2026-06-24 02:52:34] Balance: $10,161.91 | Equity: $10,163.37 | Posiciones abiertas: 1/2
+[2026-06-24 02:52:34]   Pos 38692462 | BUY | P&L: $0.02
+[2026-06-24 02:52:34]   P&L total flotante: $0.02
+[2026-06-24 02:52:34] Manteniendo posicion 1 (BUY)
+[2026-06-24 02:52:34] Proxima revision en 5 minutos
+
+[2026-06-24 02:57:34] -- Revisando mercado --
+[2026-06-24 02:57:34] Precio: 1671.63 | RSI: 55.45 | BB inf: 1667.54 | BB sup: 1673.27
+[2026-06-24 02:57:34] Balance: $10,161.91 | Equity: $10,161.78 | Posiciones abiertas: 1/2
+[2026-06-24 02:57:34]   Pos 38692462 | BUY | P&L: $0.01
+[2026-06-24 02:57:34]   P&L total flotante: $0.01
+[2026-06-24 02:57:34] Manteniendo posicion 1 (BUY)
+[2026-06-24 02:57:34] Proxima revision en 5 minutos
+
+[2026-06-24 03:02:34] -- Revisando mercado --
+[2026-06-24 03:02:34] Precio: 1666.38 | RSI: 34.75 | BB inf: 1666.88 | BB sup: 1673.30
+[2026-06-24 03:02:34] Balance: $10,161.91 | Equity: $10,159.20 | Posiciones abiertas: 1/2
+[2026-06-24 03:02:34]   Pos 38692462 | BUY | P&L: $-0.04
+[2026-06-24 03:02:34]   P&L total flotante: $-0.04
+[2026-06-24 03:02:34] Senal BUY pero pos1 aun no alcanza ganancia minima ($-0.04 / $0.5) — esperando
+[2026-06-24 03:02:34] Proxima revision en 5 minutos
+
+[2026-06-24 03:07:34] -- Revisando mercado --
+[2026-06-24 03:07:34] Precio: 1667.73 | RSI: 38.61 | BB inf: 1666.90 | BB sup: 1673.08
+[2026-06-24 03:07:34] Balance: $10,161.91 | Equity: $10,156.91 | Posiciones abiertas: 1/2
+[2026-06-24 03:07:34]   Pos 38692462 | BUY | P&L: $-0.03
+[2026-06-24 03:07:34]   P&L total flotante: $-0.03
+[2026-06-24 03:07:34] Manteniendo posicion 1 (BUY)
+[2026-06-24 03:07:34] Proxima revision en 5 minutos
+
+[2026-06-24 03:12:34] -- Revisando mercado --
+[2026-06-24 03:12:34] Precio: 1666.83 | RSI: 35.41 | BB inf: 1666.41 | BB sup: 1672.97
+[2026-06-24 03:12:34] Balance: $10,161.91 | Equity: $10,159.18 | Posiciones abiertas: 1/2
+[2026-06-24 03:12:34]   Pos 38692462 | BUY | P&L: $-0.04
+[2026-06-24 03:12:34]   P&L total flotante: $-0.04
+[2026-06-24 03:12:34] Manteniendo posicion 1 (BUY)
+[2026-06-24 03:12:34] Proxima revision en 5 minutos
+
+[2026-06-24 17:19:06] Bot detenido manualmente
+[2026-06-24 17:19:59] ==================================================
+[2026-06-24 17:19:59]    BOT DEMO - ETH/USD OANDA
+[2026-06-24 17:19:59]    Par      : ETHUSD
+[2026-06-24 17:19:59]    Lote     : 0.01
+[2026-06-24 17:19:59]    SL / TP  : $30 / $90
+[2026-06-24 17:19:59]    Max pos  : 2
+[2026-06-24 17:19:59]    Balance  : $10,146.09
+[2026-06-24 17:19:59]    Servidor : OANDA_Global-Demo-1
+[2026-06-24 17:19:59]    Estrategia: BB(20,2) + RSI(14)
+[2026-06-24 17:19:59] ==================================================
+[2026-06-24 17:19:59] -- Revisando mercado --
+[2026-06-24 17:20:00] Precio: 1668.83 | RSI: 45.70 | BB inf: 1666.77 | BB sup: 1672.81
+[2026-06-24 17:20:00] Balance: $10,146.09 | Equity: $10,146.09 | Posiciones abiertas: 0/2
+[2026-06-24 17:20:00] Senal: HOLD — esperando
+[2026-06-24 17:20:00] Proxima revision en 5 minutos
+
+[2026-06-24 17:25:00] -- Revisando mercado --
+[2026-06-24 17:25:00] Precio: 1618.48 | RSI: 68.45 | BB inf: 1609.59 | BB sup: 1620.23
+[2026-06-24 17:25:00] Balance: $10,146.09 | Equity: $10,146.09 | Posiciones abiertas: 0/2
+[2026-06-24 17:25:00] Senal: HOLD — esperando
+[2026-06-24 17:25:00] Proxima revision en 5 minutos
+
+[2026-06-24 17:30:01] -- Revisando mercado --
+[2026-06-24 17:30:01] Precio: 1616.45 | RSI: 58.40 | BB inf: 1609.97 | BB sup: 1620.07
+[2026-06-24 17:30:01] Balance: $10,146.09 | Equity: $10,146.09 | Posiciones abiertas: 0/2
+[2026-06-24 17:30:01] Senal: HOLD — esperando
+[2026-06-24 17:30:01] Proxima revision en 5 minutos
+
+[2026-06-24 17:35:01] -- Revisando mercado --
+[2026-06-24 17:35:01] Precio: 1618.50 | RSI: 65.13 | BB inf: 1609.87 | BB sup: 1620.39
+[2026-06-24 17:35:01] Balance: $10,146.09 | Equity: $10,146.09 | Posiciones abiertas: 0/2
+[2026-06-24 17:35:01] Senal: HOLD — esperando
+[2026-06-24 17:35:01] Proxima revision en 5 minutos
+
+[2026-06-24 17:40:01] -- Revisando mercado --
+[2026-06-24 17:40:01] Precio: 1617.28 | RSI: 59.34 | BB inf: 1610.26 | BB sup: 1619.60
+[2026-06-24 17:40:01] Balance: $10,146.09 | Equity: $10,138.42 | Posiciones abiertas: 0/2
+[2026-06-24 17:40:01] Senal: HOLD — esperando
+[2026-06-24 17:40:01] Proxima revision en 5 minutos
+
+[2026-06-24 17:45:01] -- Revisando mercado --
+[2026-06-24 17:45:01] Precio: 1617.33 | RSI: 59.39 | BB inf: 1610.53 | BB sup: 1619.08
+[2026-06-24 17:45:01] Balance: $10,146.09 | Equity: $10,139.25 | Posiciones abiertas: 0/2
+[2026-06-24 17:45:01] Senal: HOLD — esperando
+[2026-06-24 17:45:01] Proxima revision en 5 minutos
+
+[2026-06-24 17:50:01] -- Revisando mercado --
+[2026-06-24 17:50:01] Precio: 1617.75 | RSI: 60.39 | BB inf: 1610.44 | BB sup: 1619.30
+[2026-06-24 17:50:01] Balance: $10,146.09 | Equity: $10,143.03 | Posiciones abiertas: 0/2
+[2026-06-24 17:50:01] Senal: HOLD — esperando
+[2026-06-24 17:50:01] Proxima revision en 5 minutos
+
+[2026-06-24 17:55:01] -- Revisando mercado --
+[2026-06-24 17:55:02] Precio: 1619.68 | RSI: 67.81 | BB inf: 1610.05 | BB sup: 1620.44
+[2026-06-24 17:55:02] Balance: $10,146.09 | Equity: $10,143.48 | Posiciones abiertas: 0/2
+[2026-06-24 17:55:02] Senal: HOLD — esperando
+[2026-06-24 17:55:02] Proxima revision en 5 minutos
+
+[2026-06-24 18:00:02] -- Revisando mercado --
+[2026-06-24 18:00:02] Precio: 1619.95 | RSI: 69.01 | BB inf: 1610.04 | BB sup: 1621.11
+[2026-06-24 18:00:02] Balance: $10,146.09 | Equity: $10,140.51 | Posiciones abiertas: 0/2
+[2026-06-24 18:00:02] Senal: HOLD — esperando
+[2026-06-24 18:00:02] Proxima revision en 5 minutos
+
+[2026-06-24 18:05:02] -- Revisando mercado --
+[2026-06-24 18:05:02] Precio: 1621.80 | RSI: 73.37 | BB inf: 1609.73 | BB sup: 1622.51
+[2026-06-24 18:05:02] Balance: $10,146.09 | Equity: $10,141.28 | Posiciones abiertas: 0/2
+[2026-06-24 18:05:02] Senal: HOLD — esperando
+[2026-06-24 18:05:02] Proxima revision en 5 minutos
+
+[2026-06-24 18:10:02] -- Revisando mercado --
+[2026-06-24 18:10:02] Precio: 1621.23 | RSI: 68.86 | BB inf: 1609.83 | BB sup: 1623.10
+[2026-06-24 18:10:02] Balance: $10,146.09 | Equity: $10,139.65 | Posiciones abiertas: 0/2
+[2026-06-24 18:10:02] Senal: HOLD — esperando
+[2026-06-24 18:10:02] Proxima revision en 5 minutos
+
+[2026-06-24 18:15:02] -- Revisando mercado --
+[2026-06-24 18:15:02] Precio: 1622.65 | RSI: 73.39 | BB inf: 1609.82 | BB sup: 1624.23
+[2026-06-24 18:15:02] Balance: $10,146.09 | Equity: $10,148.25 | Posiciones abiertas: 0/2
+[2026-06-24 18:15:02] Senal: HOLD — esperando
+[2026-06-24 18:15:02] Proxima revision en 5 minutos
+
+[2026-06-24 18:20:02] -- Revisando mercado --
+[2026-06-24 18:20:02] Precio: 1619.05 | RSI: 51.56 | BB inf: 1610.26 | BB sup: 1623.84
+[2026-06-24 18:20:02] Balance: $10,146.09 | Equity: $10,151.29 | Posiciones abiertas: 0/2
+[2026-06-24 18:20:02] Senal: HOLD — esperando
+[2026-06-24 18:20:02] Proxima revision en 5 minutos
+
+[2026-06-24 18:25:02] -- Revisando mercado --
+[2026-06-24 18:25:02] Precio: 1619.78 | RSI: 54.40 | BB inf: 1610.95 | BB sup: 1624.02
+[2026-06-24 18:25:02] Balance: $10,146.09 | Equity: $10,152.42 | Posiciones abiertas: 0/2
+[2026-06-24 18:25:02] Senal: HOLD — esperando
+[2026-06-24 18:25:02] Proxima revision en 5 minutos
+
+[2026-06-24 18:30:02] -- Revisando mercado --
+[2026-06-24 18:30:02] Precio: 1617.95 | RSI: 46.11 | BB inf: 1611.64 | BB sup: 1623.68
+[2026-06-24 18:30:02] Balance: $10,146.09 | Equity: $10,158.90 | Posiciones abiertas: 0/2
+[2026-06-24 18:30:02] Senal: HOLD — esperando
+[2026-06-24 18:30:02] Proxima revision en 5 minutos
+
+[2026-06-24 18:35:02] -- Revisando mercado --
+[2026-06-24 18:35:02] Precio: 1618.78 | RSI: 49.85 | BB inf: 1612.42 | BB sup: 1623.63
+[2026-06-24 18:35:02] Balance: $10,146.09 | Equity: $10,166.38 | Posiciones abiertas: 0/2
+[2026-06-24 18:35:02] Senal: HOLD — esperando
+[2026-06-24 18:35:02] Proxima revision en 5 minutos
+
+[2026-06-24 18:40:02] -- Revisando mercado --
+[2026-06-24 18:40:02] Precio: 1617.48 | RSI: 44.96 | BB inf: 1612.87 | BB sup: 1623.38
+[2026-06-24 18:40:02] Balance: $10,146.09 | Equity: $10,171.24 | Posiciones abiertas: 0/2
+[2026-06-24 18:40:02] Senal: HOLD — esperando
+[2026-06-24 18:40:02] Proxima revision en 5 minutos
+
+[2026-06-24 18:45:02] -- Revisando mercado --
+[2026-06-24 18:45:02] Precio: 1616.70 | RSI: 41.66 | BB inf: 1613.45 | BB sup: 1623.06
+[2026-06-24 18:45:02] Balance: $10,146.09 | Equity: $10,168.89 | Posiciones abiertas: 0/2
+[2026-06-24 18:45:02] Senal: HOLD — esperando
+[2026-06-24 18:45:02] Proxima revision en 5 minutos
+
+[2026-06-26 16:19:23] Bot detenido manualmente
+[2026-06-26 16:19:27] ==================================================
+[2026-06-26 16:19:27]    BOT DEMO - ETH/USD OANDA
+[2026-06-26 16:19:27]    Par      : ETHUSD
+[2026-06-26 16:19:27]    Lote     : 0.01
+[2026-06-26 16:19:27]    SL / TP  : $30 / $90
+[2026-06-26 16:19:27]    Max pos  : 2
+[2026-06-26 16:19:27]    Balance  : $10,174.51
+[2026-06-26 16:19:27]    Servidor : OANDA_Global-Demo-1
+[2026-06-26 16:19:27]    Estrategia: BB(20,2) + RSI(14)
+[2026-06-26 16:19:27] ==================================================
+[2026-06-26 16:19:27] -- Revisando mercado --
+[2026-06-26 16:19:27] Precio: 1568.45 | RSI: 37.44 | BB inf: 1565.90 | BB sup: 1580.80
+[2026-06-26 16:19:27] Balance: $10,174.51 | Equity: $10,174.51 | Posiciones abiertas: 0/2
+[2026-06-26 16:19:27] Senal: HOLD — esperando
+[2026-06-26 16:19:27] Proxima revision en 5 minutos
+
+[2026-06-26 16:24:27] -- Revisando mercado --
+[2026-06-26 16:24:27] Precio: 1568.45 | RSI: 37.44 | BB inf: 1565.90 | BB sup: 1580.80
+[2026-06-26 16:24:27] Balance: $10,174.51 | Equity: $10,174.51 | Posiciones abiertas: 0/2
+[2026-06-26 16:24:27] Senal: HOLD — esperando
+[2026-06-26 16:24:27] Proxima revision en 5 minutos
+
+[2026-06-26 16:29:27] -- Revisando mercado --
+[2026-06-26 16:29:27] Precio: 1568.45 | RSI: 37.44 | BB inf: 1565.90 | BB sup: 1580.80
+[2026-06-26 16:29:27] Balance: $10,174.51 | Equity: $10,174.51 | Posiciones abiertas: 0/2
+[2026-06-26 16:29:27] Senal: HOLD — esperando
+[2026-06-26 16:29:27] Proxima revision en 5 minutos
+
+[2026-06-26 16:34:27] -- Revisando mercado --
+[2026-06-26 16:34:27] Precio: 1568.45 | RSI: 37.44 | BB inf: 1565.90 | BB sup: 1580.80
+[2026-06-26 16:34:27] Balance: $10,174.51 | Equity: $10,174.51 | Posiciones abiertas: 0/2
+[2026-06-26 16:34:27] Senal: HOLD — esperando
+[2026-06-26 16:34:27] Proxima revision en 5 minutos
+
+[2026-06-26 16:39:27] -- Revisando mercado --
+[2026-06-26 16:39:27] Precio: 1568.45 | RSI: 37.44 | BB inf: 1565.90 | BB sup: 1580.80
+[2026-06-26 16:39:27] Balance: $10,174.51 | Equity: $10,174.51 | Posiciones abiertas: 0/2
+[2026-06-26 16:39:27] Senal: HOLD — esperando
+[2026-06-26 16:39:27] Proxima revision en 5 minutos
+
+[2026-06-26 16:44:27] -- Revisando mercado --
+[2026-06-26 16:44:27] Precio: 1568.45 | RSI: 37.44 | BB inf: 1565.90 | BB sup: 1580.80
+[2026-06-26 16:44:27] Balance: $10,174.51 | Equity: $10,174.51 | Posiciones abiertas: 0/2
+[2026-06-26 16:44:27] Senal: HOLD — esperando
+[2026-06-26 16:44:27] Proxima revision en 5 minutos
+
+[2026-06-26 16:49:27] -- Revisando mercado --
+[2026-06-26 16:49:27] Precio: 1568.45 | RSI: 37.44 | BB inf: 1565.90 | BB sup: 1580.80
+[2026-06-26 16:49:27] Balance: $10,174.51 | Equity: $10,174.51 | Posiciones abiertas: 0/2
+[2026-06-26 16:49:27] Senal: HOLD — esperando
+[2026-06-26 16:49:28] Proxima revision en 5 minutos
+
+[2026-06-26 16:54:28] -- Revisando mercado --
+[2026-06-26 16:54:28] Precio: 1568.45 | RSI: 37.44 | BB inf: 1565.90 | BB sup: 1580.80
+[2026-06-26 16:54:28] Balance: $10,174.51 | Equity: $10,174.51 | Posiciones abiertas: 0/2
+[2026-06-26 16:54:28] Senal: HOLD — esperando
+[2026-06-26 16:54:28] Proxima revision en 5 minutos
+
+[2026-06-26 16:59:28] -- Revisando mercado --
+[2026-06-26 16:59:28] Precio: 1568.45 | RSI: 37.44 | BB inf: 1565.90 | BB sup: 1580.80
+[2026-06-26 16:59:28] Balance: $10,174.51 | Equity: $10,174.51 | Posiciones abiertas: 0/2
+[2026-06-26 16:59:28] Senal: HOLD — esperando
+[2026-06-26 16:59:28] Proxima revision en 5 minutos
+
+[2026-06-26 16:59:32] Bot detenido manualmente
+[2026-07-02 20:48:58] ==================================================
+[2026-07-02 20:48:58]    BOT DEMO - ETH/USD OANDA
+[2026-07-02 20:48:58]    Par      : ETHUSD
+[2026-07-02 20:48:58]    Lote     : 0.01
+[2026-07-02 20:48:58]    SL / TP  : $30 / $90
+[2026-07-02 20:48:58]    Max pos  : 2
+[2026-07-02 20:48:58]    Balance  : $10,174.51
+[2026-07-02 20:48:58]    Servidor : OANDA_Global-Demo-1
+[2026-07-02 20:48:58]    Estrategia: BB(20,2) + RSI(14)
+[2026-07-02 20:48:58] ==================================================
+[2026-07-02 20:48:58] -- Revisando mercado --
+[2026-07-02 20:48:59] Precio: 1698.55 | RSI: 34.23 | BB inf: 1696.10 | BB sup: 1718.93
+[2026-07-02 20:48:59] Balance: $10,174.51 | Equity: $10,174.51 | Posiciones abiertas: 0/2
+[2026-07-02 20:48:59] Senal: HOLD — esperando
+[2026-07-02 20:48:59] Proxima revision en 5 minutos
+
+[2026-07-02 20:53:59] -- Revisando mercado --
+[2026-07-02 20:53:59] Precio: 1702.05 | RSI: 44.80 | BB inf: 1695.89 | BB sup: 1718.30
+[2026-07-02 20:53:59] Balance: $10,174.51 | Equity: $10,174.51 | Posiciones abiertas: 0/2
+[2026-07-02 20:53:59] Senal: HOLD — esperando
+[2026-07-02 20:53:59] Proxima revision en 5 minutos
+
+[2026-07-02 20:58:59] -- Revisando mercado --
+[2026-07-02 20:58:59] Precio: 1703.35 | RSI: 49.05 | BB inf: 1695.66 | BB sup: 1718.31
+[2026-07-02 20:58:59] Balance: $10,174.51 | Equity: $10,174.51 | Posiciones abiertas: 0/2
+[2026-07-02 20:58:59] Senal: HOLD — esperando
+[2026-07-02 20:58:59] Proxima revision en 5 minutos
+
+[2026-07-02 21:03:59] -- Revisando mercado --
+[2026-07-02 21:03:59] Precio: 1702.78 | RSI: 47.38 | BB inf: 1695.16 | BB sup: 1718.14
+[2026-07-02 21:03:59] Balance: $10,174.51 | Equity: $10,174.51 | Posiciones abiertas: 0/2
+[2026-07-02 21:03:59] Senal: HOLD — esperando
+[2026-07-02 21:03:59] Proxima revision en 5 minutos
+
+[2026-07-02 21:08:59] -- Revisando mercado --
+[2026-07-02 21:08:59] Precio: 1698.95 | RSI: 36.25 | BB inf: 1694.22 | BB sup: 1718.28
+[2026-07-02 21:08:59] Balance: $10,174.51 | Equity: $10,174.51 | Posiciones abiertas: 0/2
+[2026-07-02 21:08:59] Senal: HOLD — esperando
+[2026-07-02 21:08:59] Proxima revision en 5 minutos
+
+[2026-07-02 21:13:59] -- Revisando mercado --
+[2026-07-02 21:13:59] Precio: 1698.75 | RSI: 35.44 | BB inf: 1693.50 | BB sup: 1717.95
+[2026-07-02 21:13:59] Balance: $10,174.51 | Equity: $10,174.51 | Posiciones abiertas: 0/2
+[2026-07-02 21:13:59] Senal: HOLD — esperando
+[2026-07-02 21:13:59] Proxima revision en 5 minutos
+
+[2026-07-02 21:18:59] -- Revisando mercado --
+[2026-07-02 21:18:59] Precio: 1703.38 | RSI: 53.06 | BB inf: 1693.68 | BB sup: 1716.56
+[2026-07-02 21:18:59] Balance: $10,174.51 | Equity: $10,174.51 | Posiciones abiertas: 0/2
+[2026-07-02 21:18:59] Senal: HOLD — esperando
+[2026-07-02 21:18:59] Proxima revision en 5 minutos
+
+[2026-07-02 21:23:59] -- Revisando mercado --
+[2026-07-02 21:23:59] Precio: 1708.88 | RSI: 65.41 | BB inf: 1694.14 | BB sup: 1715.66
+[2026-07-02 21:23:59] Balance: $10,174.51 | Equity: $10,174.51 | Posiciones abiertas: 0/2
+[2026-07-02 21:23:59] Senal: HOLD — esperando
+[2026-07-02 21:23:59] Proxima revision en 5 minutos
+
+[2026-07-02 21:28:59] -- Revisando mercado --
+[2026-07-02 21:28:59] Precio: 1708.50 | RSI: 64.03 | BB inf: 1694.79 | BB sup: 1714.34
+[2026-07-02 21:28:59] Balance: $10,174.51 | Equity: $10,174.51 | Posiciones abiertas: 0/2
+[2026-07-02 21:28:59] Senal: HOLD — esperando
+[2026-07-02 21:28:59] Proxima revision en 5 minutos
+
+[2026-07-03 01:30:18] -- Revisando mercado --
+[2026-07-03 01:30:18] Precio: 1716.68 | RSI: 61.21 | BB inf: 1711.53 | BB sup: 1718.04
+[2026-07-03 01:30:18] Balance: $10,174.51 | Equity: $10,174.51 | Posiciones abiertas: 0/2
+[2026-07-03 01:30:18] Senal: HOLD — esperando
+[2026-07-03 01:30:18] Proxima revision en 5 minutos
+
+[2026-07-03 01:35:18] -- Revisando mercado --
+[2026-07-03 01:35:18] Precio: 1716.08 | RSI: 59.00 | BB inf: 1711.82 | BB sup: 1717.97
+[2026-07-03 01:35:18] Balance: $10,174.51 | Equity: $10,174.51 | Posiciones abiertas: 0/2
+[2026-07-03 01:35:18] Senal: HOLD — esperando
+[2026-07-03 01:35:18] Proxima revision en 5 minutos
+
+[2026-07-03 01:40:18] -- Revisando mercado --
+[2026-07-03 01:40:18] Precio: 1714.20 | RSI: 47.60 | BB inf: 1711.77 | BB sup: 1717.68
+[2026-07-03 01:40:18] Balance: $10,174.51 | Equity: $10,174.51 | Posiciones abiertas: 0/2
+[2026-07-03 01:40:18] Senal: HOLD — esperando
+[2026-07-03 01:40:18] Proxima revision en 5 minutos
+
+[2026-07-03 01:45:18] -- Revisando mercado --
+[2026-07-03 01:45:18] Precio: 1716.88 | RSI: 61.88 | BB inf: 1711.98 | BB sup: 1717.57
+[2026-07-03 01:45:18] Balance: $10,174.51 | Equity: $10,174.51 | Posiciones abiertas: 0/2
+[2026-07-03 01:45:18] Senal: HOLD — esperando
+[2026-07-03 01:45:18] Proxima revision en 5 minutos
+
+[2026-07-03 01:50:18] -- Revisando mercado --
+[2026-07-03 01:50:18] Precio: 1717.25 | RSI: 61.06 | BB inf: 1711.75 | BB sup: 1718.11
+[2026-07-03 01:50:18] Balance: $10,174.51 | Equity: $10,174.51 | Posiciones abiertas: 0/2
+[2026-07-03 01:50:18] Senal: HOLD — esperando
+[2026-07-03 01:50:18] Proxima revision en 5 minutos
+
+[2026-07-03 01:55:18] -- Revisando mercado --
+[2026-07-03 01:55:18] Precio: 1718.58 | RSI: 68.52 | BB inf: 1711.36 | BB sup: 1718.91
+[2026-07-03 01:55:18] Balance: $10,174.51 | Equity: $10,174.51 | Posiciones abiertas: 0/2
+[2026-07-03 01:55:18] Senal: HOLD — esperando
+[2026-07-03 01:55:18] Proxima revision en 5 minutos
+
+[2026-07-03 02:00:18] -- Revisando mercado --
+[2026-07-03 02:00:18] Precio: 1716.38 | RSI: 53.49 | BB inf: 1711.66 | BB sup: 1718.59
+[2026-07-03 02:00:18] Balance: $10,174.51 | Equity: $10,174.51 | Posiciones abiertas: 0/2
+[2026-07-03 02:00:18] Senal: HOLD — esperando
+[2026-07-03 02:00:18] Proxima revision en 5 minutos
+
